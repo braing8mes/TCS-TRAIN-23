@@ -1,0 +1,183 @@
+Describe something that you think would have benefited your experience in the first semester of the program.
+{"ImportId":"QID91_TEXT"}
+More lab time
+Learning about new concepts
+Perhaps work on implementing a paper
+More free time to work on coursework and study
+A little more prerequisite info
+Nothing 
+Hard but ended well
+Live lectures and being able to ask questions in real time 
+More practice in Python.
+More cheat sheets
+A bit more application to what we learn 
+Lab sessions
+a better teacher, better ways of joining the class and a more thorough way of explaining how to run your course
+I would have enjoyed getting more homework that was relating to real world applications as well as the coding practice. 
+Taking the classes with a friend 
+I learned much about the field of Quantum Computing and what it would like to bo go into
+Knowledge 
+If I had attended more office hours.
+Faster paced labs
+I learned qubit
+Making the exercises take less time, they are a little time consuming but not difficult.
+More hands on math
+consistency
+I don’t know
+Having more time and hands on
+continuous home exercises help me to clear my concepts.
+I wish labs didnt have a time limit since some teachers couldnt go on teaching since they only had an hour to teach
+Shorter lectures
+more lab sessions per week
+two or three lab sessions per week
+Clearer instructions on how to open the lab notebook to do
+having interactive lab sessions
+Learning more about the physics and going faster
+More study of English 
+Programming skills 
+Everything is perfect for a student to learn quantum computing
+If the theacher in Lab covered the whole material intended, so we wouldn't have to cover it ourselves.
+Knowledge is something that everyone has to gain when attending something.
+the content I knew in quantum
+I have discovered quantum
+A good company of like minded people with whom I can discuss and review the concepts learned. I know discussion forum are available but I feel like I need a physical community. Maybe just one person. That one's on me
+I think I benefited more knowledge of quantum computing in the first semester of the program
+I have learn qiskit and python programming
+Nothing 
+I think easier homework assignments would have been beneficial because I feel that the coding homework was out of my reach. 
+Application of fundamental STEM skills in these future driven technologies 
+everything was perfect
+value added to my resume
+An easier and more efficient platform to do quantum computing. 
+If the classes were on time
+Having a physical tour of some of the quantum labs
+Nothing
+The recorded sessions 
+I have really learnt the basics of quantum computing
+Links and references to extra resources to supplement/go beyond in terms of learning.
+I thin the course was excellent.
+if i had enough time to enter semester 2 with you guys
+it was good 
+eveything
+Putting more homeworks and exercises
+I have some how got an exposure with quantum computing in the field through guest speakers 
+Lab sessions
+The MIT lab tour benefited my experience a lot, and helped me understand deeply how Quantum Computers function.
+More explanations on the summary sheet
+Practice 
+Shorter lab and lecture sessions
+I don't understand the question
+I don't think the recordings were going on until about 4 weeks in, but having those was always nice to fallback on (even when I didn't use them) when I was stuck on concepts and just the cheat sheet couldn't help me.
+More guest speakers
+Recap sessions 
+More Time practicing Python
+Having more informaton before enrolling.
+Though it was manageable, I wish I had more time to focus on the course. I have a heavy course load at school that made me focus on the course less than I would have like to.
+Got the knowledge about the quantum mechanics
+Great 
+LEARNING ABOUT THE BLOCH SPHERE AND CONCEPT OF SECURITY
+good
+I think something that would have benefited my experience would be to meet people of the field and to engage in different projects so I can expand my learning.
+A wider period of time to get work done for busy students
+Going over homework more often 
+Making lab time longer, I really loved the lab and I wanted my lab longer, for instance, to be for 90 minutes instead of 60 minutes.
+before this course, I can't manage my time and I felt distracted all of time. But after I benefited from this course that I can mange my time efficeintly and learn more topics in one time.
+A more free schedule 
+Better timing for lectures and lab sessions 
+Watching labs live more often
+My coding skills
+Less different platforms of communication, clear structure 
+More structure to the labs? The TA often moved kind quickly and I didn't really understand the purpose in the first couple of labs. Like, what are we coding for exactly.
+I would've benefited from more projects like powerpoints.
+More coding experience 
+Gave me something I can pursue in the future.
+Studying
+The very basics of quantum mechanics and how it builds up to quantum computing. The connection basically. 
+Listening to a scientific content in English
+Perhaps a trial run of someone's program on an actual quantum computer
+Fun
+Something that would have benefited would be more user interaction 
+Nothing 
+communication skills
+how i can use quantum
+Coding 
+Additional optional help with learning Python.
+If I wasn't taking additional STEM courses
+Deeper knowledge about the gates
+this course will very likely be my future
+All program have benefits on me 
+Excellent
+I would like to see more options for more aysynchronous work; or something that allows students who cannot reliably or always come for a live lecture
+Having this program be part of my school
+Many things 
+On-hand experience at a tech company working on quantum computing 
+More sheets to exercise more 
+I think if the lab instructors used something like quizlet to make things more interactive durring the class I would have learned more.
+I would have love a more fun interactive and examples of quantum used in work experience or maybe have employees come in and have them talk about their day to day experience in working for quantum development in technologies.
+lab work
+Really everything
+Learning basic of quantum computing
+More excercises
+If schedule is flexible
+Continuous support
+Got an idea how entire world have different perspectives on same thing or idea.
+can't think of anything
+Revision tests
+I think if I had taken a coding class previous to this semester it would’ve helped me understand a lot.
+More interesting topic that I I have experienced 
+Skills related to quantum computing 
+quantum computing basics and how to apply computer science ?!
+attending all the labs and lectures
+assignments to be marked quicker
+Labs really helped me build my confidence in practical approach
+Basic knowledge regarding quantum computing 
+I believe better time management for myself would have benefited me in this program so I could fully grasp the concepts.
+Coding
+Learned Ng python deeper
+Computing confidence
+More time practicing coding
+I learnt about quantum mechanics and quantum physics
+Describe something that you think would have benefited your experience in the first semester of the program.
+If my questions were given my comprehensive and easily understandable answers.
+Confidence in coding
+Maybe smaller classes
+Getting to know more about the job opportunities in the quantum industry 
+It was perfect
+The sense of creativity
+I think that the course pace was extremely slow and the concepts taught weren't properly justified enough. Sometimes, I felt that I am just memorizing rather than learning.
+If I had more connections with my speaker I had trouble with my account and was unable to connect back with my lab or course.
+Social Communication
+learning about quantum gates
+Perhaps an accompanied video on youtube or something to easily visualize some of the concepts, such as a qubit going through a quantum circuit
+nothing
+Coding Assistance
+This course change my experience and knowledge 
+a more personal touch
+The MIT tour helps me know what the Quantum Computing Lab looks like, which is interesting.
+The wonderful plan that I followed in this course is one of the best things that exist, especially learning something and then applying it
+The wonderful plan that I followed in this course is one of the best things there, especially learning with application
+Know new people and increase my experience
+Provide subtitles in other languages
+i really benefited from every class
+Having a friend take it with me.
+The content
+As an intern, I discovered it’s essential to be enthusiastic and open to learning new skills, asking for more work and being curious to learn and ask questions. This attitude will show that you enjoy being part of the team and that you're keen to help. Having curiosity and enthusiasm also means that, as an intern, you get a lot out of what you’re doing, which opens lots of opportunities
+The python review in the beginning 
+The kind treatment of the staff
+Having more time to do the assignments
+Everything is great as it is
+The coures really benefits me a lot in programming 
+Knowing how much it would benefit me
+I think being given explanations as to why the answers were wrong in the quiz questions would make it way easier for me to learn
+Interacting with other learners.
+Maybe a greater variety of things we had to do on the homework assignments.
+I am now able to say ive taken a step towards deciding the path my future will take
+cooperation
+I gained a lot of information about quantum computing and programming 
+Nothing to add
+The semester program is rooted me in the STEM field. As an undergraduate student i was wandering to choose my major, but the program really helped me to choose the right fit major for me.
+nothing to mention
+More knowledge about the topic
+practicing python
+With one of the lecturers having a better mic as it was hard to understand what was being said
+Just the recordings, making me able to fit my schedule

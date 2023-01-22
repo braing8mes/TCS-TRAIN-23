@@ -1,0 +1,1990 @@
+I improve more about learning Quantum physics .before that i have absolutely no idea about that no i feel know more about it .thank you for this opportunity. 
+timings
+More actual coding and less theory. Faster paced/heavier weeks. I feel like most of the things gone through in semester 1 could have been fit into a 3-4 week course easily with the same hours.
+Nothing I can think of.
+I think that extended due dates would help. 
+I would improve the time of the course
+The course is already great and I'm not able to think of any way it could get better.
+More optional content with higher difficulty.
+everything is up to the marks
+Excellent course 
+I noticed that in my lab we didn't always get to finishing all the content that we were supposed to cover, especially some of the coding. It sometimes made it a little difficult to compete the coding homework for that reason. I think to improve this course, the coding parts and most important content that will help us with completing the homework should be covered first and then if there is enough time at the end of the lab section that time can go towards review of content covered in lecture :) 
+Nothing much
+Perhaps more interactivity with the students; it was hard to keep focus in some of the labs and lectures. 
+Add some review weeks for people to catch up and fully understand things. 
+sometimes it was difficult to access labs live. This may just be an issue on my end or on zoom, but I still think it is worth looking into.
+I would improve on providing more examples and making it more interesting as well
+Nothing.
+I would have more opportunities for art. The challenge with stem is that it while it's very logical many elements could be better understood if art was a channel of communication. 
+Audio quality
+it is perfect.
+Move a little faster with the Qiskit, I haven't learnt anything new yet
+There's nothing I could think of to improve the course as it has been fine since I've been doing it.
+Programming 
+The program went way beyond my expectations. So, there is nothing to add to improve from my end.
+More 1:1
+Live lab sessions are difficult to catchup sometimes. It would be great beneficial if we can join any other session during that week if we are not able to the lab session which is allocated to us
+So far, everything in the course is good, but it can be a little hard to balance with my school work as well. However, everything is good. 
+Please provide more reading materials.
+The time frame,this needs improvement so that we don't rush things as most of the concepts are new and not easy digesting
+I think the  course is good as it is p
+My IBM account login wasn't working so I wasn't able to use qiskit as I wanted
+I hope there are notes that I could follow through during the live sessions or the videos since everything is new to me. 
+More simulations
+L need quantum algorithms
+I am looking for more matrierla for solving problems using quantum algorithms
+More material
+nothing
+Left for me all is good right now
+Maybe in the YouTube videos released, like from the lab, add chapters or timestamps for students to recognize the content being reviewed/taught and keep up. 
+Nothing.
+I don’t really have a lot of points for improvement! 
+could be a little more in depth, or at least differentiated for people who already know a bit
+Establishing a research group that meets to discuss how quantum computing can be applied to various areas and share our experiences on how we intend to use it. This would also help validate and identify what is possible with the current quantum technology and what can be done in the future.
+I think it would be better if the lectures were paced a small bit faster, 
+I think it would be nice if we could directly interact with the lecturers to ask questions rather than just typing them in the chat.
+Nothing.
+The labs are a bit short
+More time on each topic and more review on each topic
+By the end I started getting b confused and burnt out, so maybe more practice work to really cement the concepts into our minds
+Nothing, it’s great
+problem solving skills using python
+Optional video/audio/reading resources about quantum physics.
+I just wished it pushed on its students harder and made the course harder. That actually makes learning easier because students will be forced to work hard for a better grade and therefore learn more.
+Nothing that I can think of off the top of my head. I think everything works well.
+Sometimes it is hard to catch everything discussed in lab due to the time constraint, so I think if would be helpful if all recordings of the lab are posted.
+Explain what is being left out or skimmed in order to increase understanding.
+I feel that it should be more possible to work at our own pace and going a little ahead in the work rather than wait for the stuff to be assigned each week since I am excited to learn and grow my skills.
+
+Perhaps it could work to only put this week and the next week in the assignments, reading that it is not due until the next week. We can know what we will be working with a little better the next week. Also, the others that choose not to work ahead don't feel left out of the lab because the other people would only be one week. This could also make a missed week (although lab attendance is required anyway) not as bad since the person would not have to catch up on everything at once and be able to already know the material when catching up rather than learn two weeks of information at the same time.
+There should be separate classes for people not on beginner level. For example, being a compute science graduate, I have worked with python before and doing it again seemed trivial and not helpful.
+
+ 
+
+Some hackathon might also be a good addition.
+I think it is great and I don't see any field needing improvement
+This might just be with my school but because you had to use your personal email instead of your school email it basically forced me to use my phone for parts of the course instead of my school computer. But some of the things were much more difficult on the phone like the actual coding parts and some of the lab activities. I am not sure if you can do much about that though since it is just the school Chromebooks not allowing personal gmails.
+To be honest, the course was structured perfectly. I had personal life events that prevented me from fulfilling it to my highest ability but with that being said, I still look forward to learning more and more..
+Making time to attend classes 
+Honestly it perfect, what I would change is the pacing, I think it going really quick. I would also like more extra practice in the homework that optional.
+Nothing really. Everything is great, I would just say a but more interaction. Sometimes I feel like I'm left to teach myself.
+More material to ensure a more comprehensive understanding perhaps
+I didn't like how much review there was in lectures and labs.
+Communication. I feel that communications first semester has been spotty, and not always the best. 
+It would be better if we get more time in our lab sessions so that our instructors can give us more rooms to discuss.
+Add definitions and explain certain things in detail, I still have no idea how each of the gates move but specifically, their uses. It seems like the course was based on what the instructors thought would be the hardest part but there are more difficult parts that they did not go in depth.
+The labs often felt a little disconnected among students. I am not sure how to improve it but a lot of people were afraid to interact it seemed. I know in a traditional college for online classes the students do still feel some level of connection with the other students but I felt like that small bit was missing. 
+The labs were a little slow, and could have been used to explore more creative aspects of Quantum computing. As an example, I would have liked to see more of the quantum flytrap program and to talk about the quantum physical concepts like Wave-Particle duality and how we see that in real life. (Really, just concepts that may be too specific for lecture, but still are interesting and fun)
+Nothing really
+Nothing at the moment!
+harder exercise
+In my opinion all are very good :) 
+Make it more difficult
+
+ 
+Nothing really :]
+Spend more time to read the course material again.
+It is okay for now
+There isn't much improvement I can think about for this course. It is a pretty good course.
+increase the difficulty, do more the fundamental maths behind quantum computing
+The lab times are so inconvenient. I'm exhausted from a long day and then I have to log on to my 10pm lab. It's enforcing sleep deprivation...
+I thought some of the homework was repetitive at times but it was good.
+I would like to see a bit more application in the lab sections since I'm unable to attend lecture sections and don't see the more complicated aspects of each lab. If I was able to see and tangibly grasp more of the practical applications of quantum computing, it would enhance my experience more.
+I would maybe improve the pace, but other than that I am satisfied with how the course is going.
+More explanation about coding.
+more details on the notes
+I think it was all good.
+The policy on late work is a bit strict, considering that we only have a few assignments that make up our grade.
+It may just be my busy schedule but it seemed pretty fast paced in terms of amount of work expected. Sometimes I was just to busy to be able to get everything done especially during finals. 
+Maybe having more flexibility with the homework and independent project based work.
+To go in more in basics when starting a new topic so that if someone needs a quick revision can cope up with the things taught, rest everything was good.
+I liked the course structure and didn't exactly see any need of improvement. As I'm new to this field, given material was enough to get me started. 
+I would suggest adding more office hours
+Honestly? Nothing.
+Nothing probably everything is perfect for me.
+I think it is generally very well made and also managed.
+
+However, perhaps unclutter the materials (mainly presentations) with redundant and overly artistic graphics, it is much better when only the things that are important for the subject matter are shown and discussed.
+
+Related to that is to, instead of graphics, include stuff that improves material comprehension to a point where the commentary only clears things up, but the crucial stuff can be understood without the commentary as well. This, however, isn't really a critique of stuff missing, since generally this applies to you materials as well, but rather a general direction of thought I believe is valuable and should always be considered.
+What I would like to improve on really is live attendance of the classes. The records have been most helpful however, attending live, apart from fetching more marks will necessarily help one flow with the interactive nature of the class and see first hand what others are doing in class, it's a big encouragement when you know you're doing it right as you see others do the same at the same time. It fuels interest.
+More explanation about coding, though I didn't struggle most of the time. Also, make it so all labs have an equal time to do the homework.
+Nothing yet
+The Lectures could be more interactive. Maybe colabs for every lecture like a lab but more formal in a sense.
+I would improve it so its less difficult, beginning was very easy but then it picked up and it was hard to keep up. 
+I would try to create a more interative enviroment for the teachers and the students
+I find no complains from my side for this course. This is the best it can be. 
+
+I might suggest some methods to experiment. I don't know who will it turn out but it would be cool if we were assigned a team project and guided to complete it to get the real sense of teamwork and research.
+Time should not be a constraint for anyone. More time could have been given.
+I wouldn't change anything about the course, it is perfect for me.
+Almost nothing :p
+For me (in the asynchronous lab), it was perfect. I would suggest that we have more than one catch-up week in the semester. Like one in the middle of the semester and one at the end would be great.
+Maybe next time the way the logging in and the fact that people could get logged out from their lab sessions if they weren't there on time was a bit frustrating and the time difference changing also because of daylights savings! But that wasn't the worst that has ever happened on an online lesson!
+The course is excellent in my opinion. I'm perfectly okay with the way it is and would not want to change anything.
+lab section should be taken with more workout session
+It would be awesome if they could just go a bit slower, but otherwise, it's fine.
+Submission schedule ; starting from 9th week, I am already having tests in my university and heading to th examination for now. That is why I want a considering regarding the submissions in the next semester (asynchronous is not sufficient). Thank You for everything.
+Having a book or something (such as Data8 @ Berkeley's Inferential Thinking book) to follow along would make it easier, incase I miss a lecture and don't have the time to catch up, I'd love to be able read up on it. Or even if I did watch the lectures, I could skim through and review what I've learned.
+More cheat Sheets 
+Not sure
+I hate how the attendence quiz times me out after I finish the lab and I have to find the code again. And on some of the quizzes there are questions that have no right answers and I have to submit the quiz to see which answer gives the most points.
+
+Also I get confusing emails and when my dad sees them he thinks I missed something and loses it.
+encourage to ask more questions even if no answers are given
+Coursemates, in my opinion, should get to know each other, especially
+Decrease the lecture time as it is bit too long and in the middle of day so I can't eat or finish my other work. I wish the lecture could be more early in the morning or like evening time.
+Nothing 
+Nothing, it is great as is
+The lectures weren't too exciting. Having a more interactive way for the lectures would be nicer.
+I would add more resources to help us with the homework
+I feel that there were a lot of questions that were left unanswered, though mostly due to the sheer number of them. Maybe having a place to post questions, like a shared google document, and having them answered professionally or by fellow students may be helpful.
+Everything is going very well for me, I couldn't think of anything that needs improvement.
+I like the course as it is but if I was to change anything it would be to make a soft and hard deadline.
+It feels a bit fast paced, before I have time to get one idea down its onto the next within a week
+Extra or optional work can be given to help experiment and promote self-learning.
+I found that what we worked on in labs didn't always correspond with what was covered in lectures, which meant that the knowledge wasn't often reinforced. 
+I liked everything, but towards the end, the homework did get confusing. I think it was simply just a personal reason, I wouldn't change anything about the course!
+Nothing much, I really enjoyed this course and am eager to be back for next semester.
+Timings - Various lectures, more tutor slots for those who live abroad.
+What I would improve is making it easier to ask for help with things in the course by email.
+Aboslutely nothing 
+I think everything is just fine.
+I would add extension material for those students who are already more advanced in there knowledge for semester one, who are waiting to get to the more technical semester two, as much as they are loving the course!
+More bonus questions could be given
+As at now everything about the course is okay.
+I feel like I didn't quite understand the Algorithms presented so I would have loved to get a little more information on those.
+
+Another thing that bothered me was the fact that I asked questions in the chat both while in lecture and lab, but all of them were ignored and I never got my answers.
+The pace of the course in terms of content per video is somewhat less , lectures can be a bit more efficient
+Nothjng
+I would maybe improve the speed of the course. I do feel like in the beginning it felt very easy but then suddenly the concepts became hard, so maybe if it was a little slower I would understand more. 
+I guess none? It's already a really good course especially for someone without background in quantum and python.
+When there are homework deadlines, I would extend the deadline for students having labs on saturday. The reason behind this is that if you had had lab on saturday then you would have only one day to finish the homework as the deadline is till sunday. 
+
+Additionally, I would like to see more cheat sheets or simply the TAs sharing their file with the stuff done on the lab so that it would be more easier to do the homework. 
+Its already going well.
+I feel there is nothing that should be improved. Everything is just so good.
+At the moment, the course structure, assignments and Lab are excellent.
+I would improve the course by shortening the homework notebooks because they often felt quite repetitive and too long. 
+I would probably want to make the homework notebooks a bit shorter, a lot of them repeated themselves a bit much. 
+I would improve lectures. They are a little boring.
+More time or deadlines
+Most of the course work is dealing with code part and algorithms, for quantum computing. The way of using them in STEM applications should be focused some more.
+The course content of 1st sem could have been more indepth and difficult. 
+I'm a slow learner , and the teachers are pretty fast while explaining. so I have to watch the recorded lecture again.
+Nothing at all.
+I don't think that there's anything in this course that could be improved. It was simple fantastic.
+For the sake of android users like me I would love the lab instructor to make a quick review of the last lab assignment due to the fact that its difficult to access the notebook during the classes, its after the lab session I can easily go over the lab not book and I do stock with some codes
+
+maybe screenshot of the area we were stocked in should be taken and submitted on a platform then we randomly revisit them in the next lab session 
+Maybe talk more about what kinds of things we can do with our current skillset in quantum computing
+To improve the course,uhm,.. that's tough. I suggest probably more fun content,and more exercises might be appreciated.
+Qiskit
+Add optional material and links for students who want to explore more
+labs time most e more than hour
+I would improve the interactiveness of the live lab sessions as they can sometimes get boring towards the end.
+I found nothing particularly wrong about this course.
+Including more problem solving instead of just bookwork multiple choices, might be better to increase familiarity with the content.
+More concepts and cheat sheets.
+nothing
+I am satisfied the way things are going.
+It is good like this
+Its ok
+As of right now I don't have any ideas on how to improve the course, It was good. 
+Less homework
+Interactivity of labs could be increased a little, although I think that the current one is also very good.
+It felt slow, and I wish there were more math involved in explaining and describing certain quantum behaviors. But neither of those were deal breakers, ultimately nothing really needs to change. 
+I would add a harder version of each lab to have more challenging work to do.
+The length of the labs and the way the homework is designed. It is hard to stay on top of hour-long lectures and homework that takes centuries to get through. 
+It should have been little more illustrative and hence little longer semester.
+I think more social events would be better for both National and International students
+I think more resources for learning the material. Such as YouTube videos with the lectures links and articles. This can give us a bigger idea of quantum computing. 
+Nothing. It's good. Yeah just wanna work on some projects.
+I would suggest to conduct some more sessions where students can network and learn about their peers.
+I would love some more in-depth explorations of how the quantum computers are actually built, and just more time overall to dive into these topics.  Otherwise, I thought the course was really well done.
+I would increase the hands-on activities for labs
+I can't think of any thing to improve.
+Maybe a little more review on the more dense and difficult topics
+I don't have an idea.
+I think the homeworks are a little hard. 
+Nothing. I think it has everything it needs to teach people.
+I think that the course structure and lectures overall was a good experience i don't think any improvements are necessary in these conditions.
+It would be nice if we get to know how quantum computers could be helpful for theoretical research.
+More on foundational aspects.
+I would inject a bit more math to those who would like to explore that side of it.
+Nothing.
+Keep up the good work
+I can't think of anything right now. 
+Maybe it could go into more of the physics of things if you know what I mean.
+Nothing specific.
+I don't see any need for improvement.Everything has been well thought through and the effects have been visible.Thank you 
+There is very little student interaction. The practical coding portion was incredibly easy compared to the theory of quantum computing.
+I think the notebook system was kind of hard to hard to understand. I think for the future for there to be an easier way to use it. 
+I would have the labs be more informative, meaning less review time and more time for new material. People asking too many questions during lab left little time for the lecturer to go over material and I found it very frustrating. 
+More useful cheat sheets.
+I think that if we can recive a summary for the lab material in pdf, it could be useful
+Probably the homework could be more interesting such as watching videos, maybe making a video, or creative writing? More variety in the types of homework could be fun.
+Frankly, the course is quite adequate. You have thought of everything. However, it would be nice if the deadlines for the assignments were more flexible.
+Occasionally there were mistakes in attendance tracking, as I completed attendance quizzes but was marked absent, or could not find homework that was necessary for the course on the calendar. But overall it was a well designed first semester.
+My quantum speed 
+no ideas rn
+Not sure how, but I'd love if this was more engaging! Currently, it feels a bit... distant and like what we do is, to be honest, nothing more than just busy work. Not too sure how to word it, but regardless it's still good for now, but I'd try to improve on that if and where possible. 
+The course structure did feel slightly imbalanced however, because it seemed to be very simple and easy for the first 6-7 weeks, however it jumped up in difficulty very quickly and I got slowed down a lot during the final few weeks. I would try to make the first several weeks more fast paced and a little higher intensity so that you could slow down a little during the final weeks and spend more time on the harder material.
+I do not think there is something that I would change. Perhaps I would allow the homework to be solved (with full points) until the end of the semester and then I would have an exam.
+Lab sessions which were sometimes not enough to cover the topic
+
+ 
+I think the homeworks can be improved.
+Pls, send us more homeworks and assignments uch as question forms or even Qiskit sheets. 
+i enjoy when we really go in depth into a topic and would enjoy having more detailed explanations to topics.
+There's not much content to practice. 
+sometimes we wouldnt get through the entire lab in the lab, so we had to learn the content ourselves
+Nothing.
+have a project part that apply what we have learned
+Probably the time it takes for one lab to happen, since right now it is only one hour and I don't think that's enough.
+I would like to integrate more with the rest of the students. 
+My lab TA was terrible, finished the material once, rarely explained things well
+At the moment I do not have any suggestions with regard to improving the course, most of the things have been running smoothly except during lab sessions where you will be closed out 15 minutes into the session
+I would improve the method of teaching, for example the way you teach a student in highschool should be way easier and simpler than how you'll teach those at MIT , college and so on .Due to this fact I believe many students like me taking this course at the highschool level find it more diffuclt to comprehend.
+
+ 
+Take into consideration that people have disabilities 
+assignment difficulty needs to be increased 
+Better networking and social events. Also to highlight and provide further opportunities to continue in this field/further your understanding e.g. with more courses/challenges/competitions/events we're directed to. But is a very well organized friendly and welcoming course I've loved semester one thank you!
+Everything was wonderful!
+comunication with hw help
+I was not able to change my lab timings even after i wasn't comfortable with the timings hence i always rewatched recording which made me slow many times
+Maybe a deeper dive into quantum mechanics and the mathematics & hardware behind all the work we did. 
+
+Loved the mit lab tour and the hardware lecture. Would love more lectures discussing how the hardware operates 
+To get to know more about the hardware side of it. I mean quantum side of it. How actually the computer looks like it's components and execution.
+hw quizzes should incorporate the material from the hw notebook, not just ask what the result was
+I'd probably keep the course as is, It seems fit to a lot of your students; this methodology of teaching.
+What I would like to improve about the course is the topics being discussed.
+I would spend a little more time on python
+I hope in the next semester we are given opportunities to complete tasks that will help us in getting internships based on the contents and extra efforts/research. I really hope that after the next semester I would feel myself having a serious level of experience in this field, and it'll help me get further opportunities to build a career in the field.
+I wasn’t getting the notifications on time and the due dates changed unexpectedly. The new due date which were assigned had already passed every time. These glitches, if restored, could be helpful in future 
+Supplementary notes.
+My coding skills have improved significantly. 
+The timing of the Lectures.
+
+I am a student from India and since I attend the lectures from a different time zone, they took place at around 11 PM in the night for me which became really difficult to keep up with. So, it is a suggestion to schedule the lectures 2 or 3 hours earlier than the current schedule.
+better schedules for people living far from the host time zones
+If I were to recommend one thing, it would be to allow for a universal time limit allowed on assignments. I understand for pacing and system purposes, they must be assigned before the next lecture, but that also means students who have labs on Monday will in theory have longer time allotted to complete homework than those with labs late on Saturday.
+providing internship opportunity for student that are interested 
+Nopeee nothing
+Something I would improve for this course would be to separate new learners from those who are already familiar with coding or quantum itself. It was really hard to learn or understand brand new material when others, with previous knowledge, were asking more in depth questions or real world questions unrelated to the topic. Most of my struggles were with coding since I have never coded before. When it came to lab assignments or homework, and I was trying to gain an understanding of how to properly write out things, majority of the students had already known the basics. The TA's kind of moved along without explaining it step by step because, I'm assuming, since the majority knew, then everyone would or should know. This problem only occurred in the beginning of the semester when my lab had about 90 students. As time went time by and it dialed down to about 40 students the TA's broke everything down step by step so students can understand it.
+Nothing at the moment.
+Nothing
+Almost nothing, I was unable to complete HW due to my University responsabilities, even though I got extra time to complete the course.
+I generally dislike online classes, but I don't think that anything could have been done better. 
+the structure of the program is super perfect
+nothing to add.
+Additional practice for topics
+nothing.
+Everything is good
+Nothing!
+nothing
+I would increase deadline for submitting assignments.
+Nothing much
+More (comprehensive) cheat-sheets
+A lot of time in the live lectures are taken up with answering questions in the middle, would be nice to get all content done and then answer questions.
+Get more into Quantum Machine Learning and opportunities to research and publish scientific papers.
+I would give more consistent and more technical homework
+The only improvement I would suggest is to make an internship available for interested students such as myself.
+I was always confused with the timings. Maybe a nice schedule chart uploaded on canvas would have helped a lot
+I don't think so anything is required to improve.
+There wasn't any helpful homework for algorithms.
+I think there isn't I feel okay with it 
+A bit better instruction on the homework concepts.
+Nothing much
+The deadlines should be pushed behind a little 
+More flexibility for labs
+Nothing 
+Add some challenging homeworks as optional 
+Some Quantum Coding or Knowledge about Quantum computers.
+I think it is great the way it is!
+Nothing
+Flip the times of the lecture and lab (make the lab 1:30 hours and the lecture 1 if possible)
+The summaries
+Knowledge about quantum computers 
+Maybe to have a little more interactivity.
+Having an additional references page where there are links to things we can explore on our own.
+I would have further explanation on why some stuff comes about. For example there was the gates, I don’t know where and why this random sphere came about, and what it has to do with computers.
+A more detailed cheat sheet. 
+Prerecorded content for better understanding with animations
+More resources 
+Nothing, I liked the course very much, and I find that its style is different and distinctive
+More opportunity to manage selected schedule for lab session, in addition to get a calendar hit for that. 
+The catchup week durations and deadlines for assignments
+Make the course more interactive by talking more with the program's participants on the online sessions.
+- More focus on lecture content.
+Stretch goal and advanced optional goal.
+Maybe allow the chat to be seen in the recordings. 
+I really improve in python and Quantom computing. I also improve my Understanding about Quantum world and STEM related to Quantum. it was realy help full.
+My skills in quantum
+More difficult exercises and a project at end of the semester would motivate students to indulge more 
+nothing, everything was perfect
+I would very much struggle to improve on my practice because i did not do a lot in semester one
+More office hours.
+
+ 
+
+ 
+Better discord support probably. Especially when people were learning python, we, as students helped them instead of most TAs.
+I would perhaps increase the difficulty of the course. Also, if possible, it would be great if QxQ sent out reminders to do the homework, since I sometimes would forget because I had a bunch of other stuff to do.
+Canvas can be a bit confusing.
+Rigour could be increased in Semester 2 now that most people are familiar with the basics. The topics which could not be covered in Semester 1 (that were provided as part of the original agenda) could be looked at during Semester 2
+The lab duration 
+Learning a bit of math fundamentals would've been great
+
+ 
+Not really a fault on anyone's end, but the navigability of CANVAS is sometimes confusing, and also having a weekly link to send to each student for labs and lecture sessions, as sometimes I have to dig through my email for the links.
+I like challenges, so I would like if we could study a bit faster.
+I felt like the course was overall executed very well. There were a few times where we didn't completely finish the slideshows in a lab, which meant I had to do a little bit of research on my own before the assignemnts, but I didn't really mind.
+A little more orginization
+Time flexibility and also reduce the time needed to upload course recordings.
+I believe including some place to gain more depth knowledge about certain concepts would be useful (eg, youtube videos on more in-depth information for the different types of quantum computers )
+Nothing really.
+Summary sheets should be more regular instead of just certain weeks. Also they should contain resources for further exploration.
+I don't really like the style/format of the lab/homework notebook system. 
+I think having a review homework assignment would help me retain what we've learned over the semester.
+More dificulty
+I would want to see the topics be presented in a more understandable and digestible way during the lectures.
+I would put multiple-choice question polls in the middle of lectures to see if the students understood the topics.
+Maybe spend a little more time studying 
+course was very hard and make canvas more organized
+A more approach towards physics and Quantum AIML 
+More time between lectures. 
+creating more challenging exercises. 
+No improvement suggestions from my side for this awesome semester.
+I think labs should be longer or meet more often every week because they have been the most useful for learning. 
+slower pace in lab
+I would not improve anything about the course.
+The speed. It felt too slow sometimes and the beginning to learn Python segment felt too long
+I would meet more occasionally just to talk about the course material.
+I think maybe discord should be more prioritized, and have updates sent there as well as in emails. It would make things a lot more likely to be seen in my humble opinion.
+I would like the extend the due date for the lab assignment and the lectures assignments like a day or two so that we could spend more time doing it.
+I don't think there is much to improve.
+I don't have many suggestions, I think its a great course overall, perhaps the lectures could be more interactive but I think the labs and being able to interact with our lab instructor really helps.
+One thing I would improve is to have a bit less work since I also have a lot of extra school work going on in my life. 
+The course content could be more detailed and technical.
+I would improve by making the lectures more interactive
+Instead of quizzes on the lab notebooks, we just turn in the lab notebooks.
+Maybe make the course more interactive? Maybe it would be putting people on the spot, but calling on specific students to answer questions during lecture/lab would also make sure that everyone’s paying attention.
+Make lectures more fun and interactive
+Not a thing, I love it!
+More demonstrations in lab lectures
+I thought this course was the best. It had recordings to review, guest speakers so that we can listen to different perspectives, and so much more. I was so amazed of how much resource we would get. I honestly don't have any suggestions of improvements.
+I would include more of the math/physics of quantum computing.
+While not super important to our learning, the little mistakes annoyed me. I got multiple emails saying I hadn't turned in assignments when I had. A few homework questions also had the wrong answer marked as correct. Other than that, I wouldn't change anything about the course. 
+The amount of time watching videos and re watching stuff to actually get the material, but this comes with any hard course. 
+If anything, I would improve the email and notifications system. I received a few emails that I shouldn't have received (e.g. wrong lab section), and quite a few emails discussed the same points, which I found inconvenient as I had to scour my inbox for all of them and make sure that I hadn't missed something. There was also the occasional email with mistaken information (which was always caught and fixed later via another clarifying email, but it'd be nice if there wasn't mistaken information sent out in the first place).
+I would like for them to maybe give summaries 
+Make homework more enriching 
+it's great.
+
+ 
+I am OK with the course
+Overall, in my personal opinion, the course is already good, maybe a small input, if it is possible to increase the number of game-based materials, it's fun and engaging. 
+I think that having more discussion into the applications of quantum computers. As well as giving resources to students that could possibly take internships to further themselves in the field.
+I would maybe add some lecture notes/handouts for each week.
+I think that the labs are a little slow paced.
+for me the course is perfect
+Maybe allow students to attend different labs as some lab instructors explain things differently and/or ger farther than others.
+Nothing
+I want to be given even more time to just experiment with the quantum computing an python.
+I think there needs to be more time after the lab to do the homework and a homework session after the laboratory as doing the lab after the homework is not useful.
+
+I wish there was more rigor and our labs were tied to applications as I am not sure how they are important to quantum computing. 
+
+Also, where are the solutions to our labs and homework?
+
+ 
+
+Please provide reference reading material.
+Lectures, possibly finding a way to make them more engaging or interactive. 
+more mathematics
+
+ 
+Maybe longer lab times, but I say this because I quite enjoy my lab period but it may be more difficult for others to attend for longer if they have very busy schedules.
+I wish there were more options for more difficult coding assignments
+I think we could have more of a lecture review during lab. Lots of times, during the lab, we learned new concepts that weren't talked about during the lecture, so sometimes, it was difficult to follow along. 
+I improved for more understand the mechanics of quantum.
+The course is perfect and there is nothing I feel needs to be improved.
+* Time of Lab sessions (Night / Day)
+
+* Watch recored lab and do coding with it
+The quality of ibm servers
+I think the course is perfect but I would maybe assign more challenging homework.
+Mak it a bit more fast-paced because I feel like in labs we were doing the same thing for a very long time
+I don't think there is much that needs to be improved, but maybe creating a few more engaging labs every couple of weeks (kahoot, jeopardy, etc.)
+Personally I find q×q from the most courses that surprised me with the organisation and style of learning I don't find anything need change 
+I would like the course to be more challenging, maybe with more assignments or projects, so that I could learn and retain more about quantum computing. 
+I can't really think of a reason, because I really felt supported throughout the program.
+I would improve the interactivity in the lectures, as it would be easier to learn that way.
+It’s perfect 
+I think the course is pretty well structured as is.
+I don't think I'd really improve anything about this course. Maybe more thorough labs would be good.
+slightly confusing LMS, where to access different content
+I think it is good how it is.
+I would add more extra work and materials for people to do if they want.
+I'd like to make improvements in timings of the course. Even though I've chosen a timing that is available in my time zone, it is yet not the most comfortable time to study such an interesting topic! 
+Not sure.
+Notifications for assignments 
+I would prefer that we would have the completed notebook at the end of the live lab session, as I did find it very difficult to keep up with the pace of my instructor, and with a completed notebook, I would be able to review anything I may have missed. 
+More fast paced
+Something I would improve about the course is connecting the conceptual aspects of the lecture to the labs more. I feel that the labs focus too much on the coding aspect of the topic, leaving the new things learned in the lecture in the background. 
+I would love to hear more about quantum computer hardware and also I would increase the speed of the course.
+More implementation of algorithms.
+nothing
+I would'nt improve nothing for now, all the semester was good.
+I wish there were textbook recommendations for quantum computing that we could follow alongside the course to have a deeper understanding of the subject.
+I think the course is very ideal.
+Increase the online Lab class time.
+More interactive and more difficult..
+I want to ask for early updates on the lab session if it will be canceled because it is pretty infuriating when I logged onto zoom and waited for 30 min in the waiting room and hoped that the TA would launch the lab.
+I would make it a little faster. 
+I'd like to see more opportunities outside of the course, as well as more events (social or educational).
+More explanation
+Please send links for the lab sessions every week as some of us are working and in completely different time-zones which make it hard to remember the timings and easier to miss them.
+What I would improve about the course would be having a further detailed sheet for some of the more complex coding. 
+I did not like the oversimplified approach to quantum mechanics; it smacks very much of "pop science." Much better to start right away with qubits and gates focusing only on the mathematical aspect, rather than teaching simplified physics stuff that can't be fully understood anyway.
+
+Another thing is the fact that the course takes a while to get going (the first 3 lectures are introductory and very notionistic - "theory" but without math) and that the last lectures are review lectures, so of 11 lectures just over half are "dense" lectures in content.
+i felt like the homework assignments where you had to describe what you already put into the notebook were just rather asinine and i would have liked further theoretical programming challenges to be unique in the multiple choice quizzes rather than simply retelling what you already submitted into the notebook
+Nothing
+In my opinion, I think the course should go slightly more in depth when introducing concepts, since when things were first explained, I couldn't immediately understand how it would work and why its useful.
+I have submitted my assignments late. It's because of different factures but the main problem was the network and now I have changed my location. So, I will not be late in the feature. 
+I would provide mathematical background for the things that we are learning about from the get-go.
+The Timings of lectures need some improvement and also the speakers should have some individual interaction with students.
+earlier notifications about labs being late or if they are rescheduled  
+
+ 
+Notification about labs at an early time period. 
+It would be helpful to have a review guide every month, so you don't loose track on the course. 
+All is fine
+I would provide more detailed slides.
+As an educator, I would benefit from participating in a lab or some other forum that included educators.
+
+It was disappointing to see see that most of the questions and comments from students were about grades and completing assignments.
+
+I wonder how the labs could encourage group discussions about the content (math/engineering/computing) of the course instead of grades? :-(
+Possibly some more in person events to network and meet other students!
+more interactive lectures
+Raise the level of difficulty and provide more information during lecture as a lot of lectures had a very small amount of information making it a little boring.
+The thing I would improve is something personal, nothing to do with the course.
+I would improve the timings of the lab
+The labs. Students don't interact much and it has happened a couple of times that we weren't notified that we wouldn't have lab that day. 
+I would personally prefer to see more difficult aspects of quantum computing - I would like to dive deeper intro what we've discussed, see some of the discrete math and physics behind it.. I think the students can take it and it's infinitely interesting!
+
+ 
+More lab works to do
+ it would be better if there are more events but everything was perfect
+I might lower the number of student, especially in the lecture. Because there are so many, it is hard to reach to every students questions.
+Perhaps delve a bit more into the physics and application of quantum circuts?
+I would find a way to add more student-teacher interaction to make the learning environment more fun and enjoyable.
+more interactions during lab maybe
+nothing :)
+I would go more into depth about the actual physics and mathematics that is used in quantum computing algorithms and in quantum mechanics itself. 
+I'd change my lab hours. Turned out the times I picked wasn't that available for me.
+I would add in more guest speakers.
+It was quite good. For me, I would say everything is fine and there is no need for any improvement.
+More information on the cheatsheets. Sometimes is hard to find the answers of the quiz questions.
+Maybe more advanced content, And more practice in the labs, it would be amazing if the labs are categorized based on experience, for example, who already knows programming and python could be together so the lab can be more efficient. 
+I do not have any suggestions for improvements on this course as it is already an amazing course. 
+We might learn more. The difficulty of the course can be increased. Also I think the focus should be the real world applications of quantum computing, especially the applications that we can use.
+i learned a lot about quantum computing
+I do not think there is any way this could be made more helpful. I love the course!
+make lectures shorter
+More depth and labs can be added
+course is good but need more time to practise 
+I like the way the course is structured, I like the content, the way it is taught and everything about it. Thank you for this amazing opportunity.
+Changing the lab schedules and instructors should be made known ahead of time.
+I would get rid of the late penalties for homework.
+Some of the coding content was a bit hazy at times in terms of teaching. So I would make sure that the coding part itself wouldn't be such a hazzle and especially for those like me who already know all the prerequisite coding skills in terms of python. 
+I could never make live events
+overall it was excellent
+One way I would improve this course is by maybe spreading out the lecture on two different days because sometimes near the end they can be quite lengthy. 
+I would like to add project sessions fro the students, where they can work on practical use.
+I would add more homework to help review concepts.
+Although I got them sorted out eventually, I seemed to have more technical issues with this course than The Coding School's TRAIN Machine Learning course I am also taking, so I would appreciate more help on that.  For example, I indicated that I wished to take the course for both semesters, but I was placed in a lab that ended in October.
+More content maybe, But it is okay I think as this course includes people who don't have any stem background.
+The course is just perfect but if we get organized email announcements it will be helpful. 
+I think it does not need improvement, the content and way that it is delivered is very good.
+I think if a student could attend 2 lab sessions a week would really be beneficial and could help cover up lots of work.
+It was too easy. I already know python and so everything to do with qiskit was too simple. A faster pace and a more difficult curriculum could be beneficial. I appreciate the course being inviting, but I do feel like a quantum computing course should have some expectation of prerequisite knowledge.
+I think the course is already pretty great so I don't have any feedbacks regarding improving the course.
+I liked it how it was but I feel like it could
+
+move along a little faster at some points
+Nothing, all functioning perfectly!
+I think it's good in this way.
+python Qiskit Library
+
+the quantum physics
+
+ 
+
+ 
+I would split lab sessions into two groups - beginner and intermediate, to help students learning at different paces.
+Make the material/schedule more clear and available before joining the course. 
+Some more revisions could be done of the previous classes. Topics could be revised in the lectures or even lab sessions. 
+There would only be the amount of people who have their cameras on, most of the time no one does, which makes it a little akward.
+I would've liked that the recordings were of my instructor
+I think more lab times. I'm taking two classes with the Coding School, so going to the labs has always been a problem for me, especially with school and my school activities. I think the labs should be somewhat related to the lecture for that week as well. Often the lecture doesn't even connect to the topics that we discuss during the lab.
+More resources
+Probably an option to improve would be reduce the live sessions because I consider that in some cases were a little long for a small concept. But, all the course was awesome.
+Nothing 
+I liked everything about the course. It's really interesting how the course contents and the way assignment are turn out. 
+Waiting for industry experts to visit and give some insights on opportunities and exposure to what's happening in quantum industry 
+Do more revision. 
+I would make it harder 
+Lab and lecture kinda goes differently so it confused me pretty a lot. Maybe they can be more revelant topics.
+More optional challenge problems on homework assignments 
+The course felt too slowly paced that I wasn't engaged enough.
+Instead of improving the course I believe that I as a student should improve myself to further understand the concepts and mathematics behind quantum computing.
+To improve this course, I would suggest a faster pace when it came to the lab recordings. Some of the lab recordings seems like a review of the lecture instead of an asset to be used while doing the lab assignment.
+make Learning summary cheat sheetOffice hours longer
+I'm am totally fine with what is obtainable now.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+nothing
+i guess make it more content heavy with exploring topics like quantum machine learning etc
+I don't think there is much needed to improve.
+I would like more/longer lab classes.
+Perhaps add options for students that already know python fundamentals to progress quicker or learn about something else
+Probably there is no any such problem that need to be solved or improved, but I feel that the students should get some more time for discussions in themselves in groups and more questions on problem solving.
+Nothing
+Nothing! I think the course is going great. 
+Frankly, I have loved every bit of the coursework. From the resources to lectures to assignments, everything has been really well organized. Congratulations to the whole team for their efforts to make it a lot easier for us, students.
+The course outline I guess it too basic I thing the difficulty level it too easy . The difficulty level should increase and the topics should be taught more deeper in the theory.  
+I don't have any good suggestion for you
+Maybe more information about the quantum technology in the market and possibilities of work in quantum fields.
+I think that will be very insteresting add a final project to integreate all teory learned.
+I wish it was a bit more interactive within the labs. We mostly kept to ourselves throughout this first semester.
+I would have liked to get a bit more extra content, optional to submit and with advanced questions and problems.
+
+Furthermore I really don't think that everybody in my class is following the content properly. At least sometimes when we get asked how we feel about the content and speed of presentation, some people say the feel they need a lot more practice but don't ask any questions then. Maybe it'd be helpfull to encourage open discussions to improve learning. 
+More connection to reality and opportunities to internships.
+I can't think of anything at the moment.
+The office hours on weekdays were all mostly in the evening time.  I would have liked a weekday mid-morning or afternoon session as well.
+Time of homework submissions.
+More slowly paced
+Days of lectures can be reacheduled. 
+
+Instead of Sunday if it could take place on Saturday we will get more time for research study.
+
+ 
+
+Thank you.
+Hardly to leverage any aspect of the course since all the modules were friendly to understand.
+The assignment submission worries me a bit as it's something I didn't understand till now but I hope I will improve in the next semester.
+I would like to improve more in advanced level instead of doing elementary stuff
+Programming skill
+I would try to condense it
+The course is absolutely good simply. 
+
+I would suggest to engage students by conducting a number of sessions and meetings.
+
+Thank You
+More Labs
+Nothing comes to my mind. I think it is ok for the intended audience of students with almost no background on maths, computer science and physics.
+Nothing special
+The content can include a more mathematical knowledge rather than conceptual information.
+I think we can give more time to the lab. I like the labs.
+All the things are fine.
+Homework more difficult and also more time to do it. Or maybe extra homework (with an extra difficultness) to do and send during the week.
+Everything is just perfect for me!
+It was perfect.
+pythons sessions
+
+ 
+Honestly, I wouldn't change anything. This was one of the first courses that was complete and perfect in almost every aspect, from the teaching to the flexibility of the schedules, everything was perfect.
+Qunatum Computing.
+I think increasing difficulty level would help. I know this could be a problem for some students but the assignments with increased difficulty could be optional for example.
+nothing
+A comprehensive summary of each lecture could be more helpful.
+from 1 lab to 2 labs a week in semester 2 , same TA 
+It will be helpful for me if I get to add schedules to my Google Calendar.
+I would love to have a live lecture class at a different time to accommodate those from different time zones.
+I am not sure.
+If it was for me, I might be biased by my interests but I would add a bit more actual maths into the program.
+Everything in the course was as great as it should be.
+None actually, it was seamless!
+Honestly speaking I don't think so Iam really satisfied with everything
+i dont have any ideas  :)
+I guess it's already great. But and hands-on project next summer would be really great.
+I think if we spent less time going through practice problems in the lectures, like during the Bloch sphere lecture, and push it to the Homeworks, we can get more material done, other than that I was very happy with the course. 
+Nothing much, I really like it the way it is, but maybe a summer course would be nice!
+Make the cohorts in the labs get to know each other maybe (like icebreakers) - as nobody turned on cameras in my cohort. I also feel like many of them only joined like halfway through the lab just to ask for the attendance code. 
+
+It would be great to up the participation in the lab session. 
+Assignments should be broken into smaller parts that can be done daily. Small assignments can keep us engaging. A big assignment seems overwhelming.
+I felt that doing more lab exercises could improve the course.
+Everything as same no changes required
+
+ 
+If there could additional books or material on Quantum Computing could be shared to the community further study the topics discussed.
+More lab hours 
+Too many notifications is not good and I don't know how but labs sessions should be improved.
+I would not change anything about the course.
+The course is good enough for me
+I am happy about the content of the course.
+No improvements needed.
+May be for the attendance , anything other than the code should be used , like a form ? Something like that .
+It's just fine
+Uploading lectures faster.
+more time to complete the home works.
+Everything is excellent. I don't see anything that needs improving.
+I would focus more on the coding and its applications outside of protocols.
+Notthing
+Just that there are a lot of connectivity and sound issues during lectures and labs.
+I would like there to be more social events and lab tours.
+More homeworks
+Nothing really ! 
+Course is excellent ! According to me no improvement is needed !
+Nothing really.
+As of now, no improvements are needed.
+Maybe homework with less questions but harder questions.
+Add an option for more challenging homework or provide links that offer interesting resources relating to each new topic. I would also keep learners updated on new advancements in quantum through the announcements section.
+The down scoring of marks after late submission. Some of us would really want to do all our assignments on time but sometimes, due to situations beyond our control we fail to do so.
+It was great but I think a deeper level of knowledge represented would be better or escalade the learning but I know there are different perspectives and People's abilities 
+My own participation.
+I miss the labs with less people. I had a summer 2021 with you andit was the best! But now we got 75 people on a lab session, interaction with TA is impossible, you actually don't learn.
+Nothing. It is a good course.
+Maybe more encouragement to people who feel they don't understand the material.
+Go into the technical details of quantum algorithms.
+Increase lab's sessions and even increase the lecture time 
+I feel certain topics should go more deeper.
+Nothing that I can think of.
+I would have lectures once every 2 weeks as they can be quite long but the short break does help. 
+Nothing.
+I would split the lectures into shorter increments. Maybe half of it on Saturday and half on Sunday? I think the current format works fine too though, because we can look back at the lectures however we'd like.
+* I think lab TAs need more time. Students have a lot of questions during the lab sessions and it would be great if the lab TAs could answer the questions without being cut off. I 'held back' questions many time because I knew that the TA has limited time to explain stuff.
+
+* I had a hard time understand what Amir was saying during most of the lectures he delivered. The audio quality could be improved.
+
+ 
+
+ 
+
+ 
+
+ 
+Just a suggestion, if we have more homework and if we add more reference material links will give a student more interest in learning advance topics in QC. 
+Include mathematics like trigonometry, probability, Matrices topics.
+Ultra cheat sheets
+I mean we could improve the deadline timings and stuff . Being in highschool , it was very tough to jiggle schoolwork along with my extra-curricular and the course .  
+The course is very good,  so it should go like this.
+The engagement in lectures
+
+ 
+I would give more office hours so that we can go ask more questions at times where we are also available.
+lectures and homework be released all together.
+Nothing to improve,u did a great job,thanks
+It would be great to have lessons taught in a more consistent manner regarding slides so its easier to take notes as a student.
+none.
+The course can be improved and i feel it is slow.. Cover more topics with different Applications which will help to further increase understanding..
+Nothing, it’s great!
+I would provide more written materials.
+I wish there were more live laboratory sessions.
+As of such, there is nothing I have to say regarding the improvement of the course. Everything was well structured for beginners as well as intermediate.
+The only thing I would change is to have the ability to change lab every week.
+Maybe shorten the lectures!
+More challenging homework.
+nothing at this point
+I don't really know but I think I can use what I learned to benefit other people. 
+Increase the lab session as a practicle portion to be plan more.
+I could improve it by getting more articles
+I think extra challenges are needed! As I understood from my lab time, there are advanced students who are curious about sometimes deeper theory, sometimes implications of our work. Further readings would have been a great addition. 
+I get bored very easily so maybe make labs more interactive and more quizzes than worksheets.
+I think the course was pretty good, so there’s nothing I feel that’s needed to be improved!
+I would make more live labs a week to improve coding skills.
+The consistency of the lab instructor, I was in lab session #14 and I there were a lot of changes of instructor and we did not have the last two lab sessions.
+which to be learned more quantum physics 
+Able to do something that something cool that we could showcase our work woudl be nice
+I would probably improve the way to get in labs. Hard to constantly look for the lab links. 
+Nothing, the course was great.
+I'm not sure.
+Some more slightly advanced concepts could have been taught in class.
+I would probably add a little more concepts or thinking like content in the first semester but, other than that, there isn't anything that I would want to add.
+Nothing 
+More lab season 
+I guess there isn't much things to improve for now 
+nothing
+Maybe two breaks during lectures? Sometimes it's hard to keep focused when a break comes super early or super late in the lecture. It would also help to divide up concepts in our minds.
+Having the lecture time another day that is not Sunday. 
+I would like to see actual quantum computing algorithms. By "actual quantum computing algorithms", I mean the functions underlying the gates that we wrote in the assignments. It would be helpful to think of the algorithms more efficiently.
+More flexible time about labs 
+It would be better if you reply to our emails. 
+Nothing. Everything is just right.
+Interaction
+I would change how marks are deducted from missing labs, as some people have unavoidable absences.
+More time to do homework and more homework help hours.
+Make it faster paced and more math related and dive deeper in quantum mechanics
+There’s nothing to improve.
+Nothing, It has been good so far.
+more timely releases of lab work as by midweek some weeks there wouldnt be any work posted until wednesday at 10 AM EST
+More detailed explanation of the course 
+more details in programming
+I wish the first semester went into depth about the various elements of quantum computing.  I think we went over many different topics and reviewed a lot, but we did not take the time to really go in depth about each of them or going through the various applications of this knowledge.  I hope that semester 2 goes through this, but I wish that semester 1 would have done this.
+I would consider breaking the lectures up into two-day sessions. It can be hard to keep up with the notes if you attend live or find the time to watch a long recording if you miss one. 
+improve my skills in quantum coding
+I cant think of any.
+I can not keep up with my Wednesday lab instructor.  I can not type and watch and copy and paste so fast.  I have to watch the pre recorded lab, which is slightly different than the live lab to get the notebook to work.  I am so so with "coding"  I am more of an super end user of technology and systems, no matter the scale.  But I like to know the behind the scenes.  I have taken programming classes in the past.  I am ok, not good. 
+
+I assume more programming will occur in semester two.  Maybe a cheat sheet with code would be helpful during the live lab.  So I can follow the instructor material.  I get it that we need to do some work - but the instructor material should be available to us.  Sort of like the begining of the semester when some code was commented out in the notebook.  The last thing I want to do during an instructive lecture is trouble shoot my typos and lack of coding ability - that is what homework is for.  My issues.
+1. The uncertain schedule of the live lab session has been tricky to catch up with. For a working professional like me, it will help better if I have a marked calendar appointment for the lab session. Nevertheless, this is not a blocker as we can watch the recording later.
+
+2. This may be a matter of personal opinion, but the level of difficulty for the assignments and homework can be increased a little. Sometimes, the content of the lecture involves various tricky concepts and/or confusing theory elements. However, the corresponding homework includes questions for the simpler topics from that day, and the most obvious answer out of the choices is often the correct answer.
+I would add a bit more time per lab, because we didn't finish everything each lab.
+I would make the note book submissions a little easier.
+nothing it was perfect 
+the lecture to go slower on the materials
+The time at which the labs are held -- none of the lab times were convenient. Early Sunday or Saturday would've been nice.
+Nothing.
+I can't think of anything right now
+There’s not much to improve on. Everything is great! Sometimes, it does get a bit tiring during the labs and lectures, however, so I would add more interactive and fun activities relating to the content to get our attention. Everything else is good though. I especially enjoy how well the content is being taught.
+Ckfkff
+I like the course's focus on quantum computing along with the python coding. I also wish that there was more of an explanation on the quantum physics itself.
+The difficulty possibly.
+Including more lectures that include concepts Quantum Information theory, that would be more helpful
+Nothing.
+nothing
+I would dive deeper into the mathematical or numerical analysis of quantum algorithms and states.
+I personally don’t feel that there is much I would do to improve the course 
+I think that lab times aren't as helpful as lectures because they only last an hour. When we have a lot of content to cover, the labs are rushed and aren't as in depth as lectures. 
+I can’t think of anything that I would change.
+I would add more advanced related topics as optional, i.e. material to go deeper into the topics (but as optional)
+Maybe a little more maths
+I don't think there is anything that requires improving
+In terms of things to change, I wouldn't say much because I genuinely appreciate the flexibility of this course. 
+I dont know
+doubt anything comes to the mind, everthing went great.
+i would improve the course by having it mandatory for every lecture and lab attendance to keep kids accountable.
+More understanding of quantum mechanics and computing. 
+Nothing. It is perfect.
+I will just have to use this break period to practice more on the lab sessions and revise some lecture topics.
+
+ 
+Nothing 
+ i would improve the notification about lecture and labs because sometimes i would busy and forget about lectures or labs i'm not always tuned i have other responsibilities.
+quality of audio
+the time managment
+interaction among students and teacher
+Nothing, it is a great introductory course to quantum computing 
+I wouldn't improve anything, its is designed perfectly. 
+I would say making the live lectures more engaging with the students.
+i would say the assignments could have had more time
+There can be more hands on session in semester 2.
+Nothing 
+I can't say really, I'm not an expert. I'm so excited about the mathematical content in the next semester and getting deeper and more sophisticated knowledge.
+The quiz could be more challenging.
+I would extend the lab time to allow for more q&a and more real world guest speakers
+The difficulty of the course should be higher.
+I don't think I would improve anything just yet. I am taking next semester's class, so we'll see what I think needs to be improved then. 
+I feel like the quiz + coding hw combo was really nice; I’m not entirely sure if homework was like that always, but if not, that would be my change
+i would personally like if it was 2 lectures a week and hands on homework that we would have to print out and do on paper. it would also be fun to have more labs like 2 a week. 
+I would make the course a little more challenging. I felt like it was very easy, at least in the first semester.
+I would improve the explanation of the lectures in the labs and in the coding for the course.
+I would like to increase the interaction between the students and include more events such as inter cultural learning. 
+Nothing
+nothing.. everything was good
+Keep doing great!
+Show any concept how it's work in real world. It will be more helpful for better understanding.
+There is nothing in particular that comes to mind when I think of how to improve the course. The way the course is set up and functions is great already.
+I would improve the email system, as sometimes I get my lab week notification or I don't, which is annoying at times.
+ more practice
+I would like a few practical examples/exercises, besides QKD, of the applications of the code we’ve been learning.
+More challenging homework. Could be a project or anything.
+So far everything is fine.
+Actually it is perfect but I think more links to read on every topic/concept may help.
+Upload of lab notebooks should be available every time like at one time, it just all disappeared together with my motivation
+Not sure, if I'm honest.
+Nothing 
+None it was perfect
+More LAB times would be good.
+Overall I am satisfied with the course although I would have also liked to learn more about the opportunities in the field and how can I take advantage from them or to learn more to engage in activities regarding Quantum Computing.
+Pacing
+improving on knowing quantum state and classical state different and there state behavior.
+
+real life application of quantum mechanics, and also building quantum circuit 
+TIMINGS! I attended every lecture and lab in the mid-night.
+
+XD
+I don't find anything yet to improve but logging in canvas has been a frequent issue for me so I want to improve thing.
+1)I feel that the Guest speaker Sessions should be increased like  in every two weeks. 
+
+2)The intensity of the course should be increased while retaining its speed.
+
+3)I don't know if this will be included in the second semester or not but I request the team to include a guidance session about detailed internship opportunities, research opportunities etc. in this field.
+
+4)Also As far as I know this course can be opted for credits but only for high school students. Can Undergrad students like me also opt for credits of this course ? 
+
+ 
+
+ 
+
+ 
+
+ 
+For me it's all good.
+Nothing for this semester. I am looking forward to the next semester. 
+It is great...
+I think adding mathematics course work to the first semester would be good idea. Other than that, personally, there's nothing I'd change about the course. it's very good as is.
+I wouldn't really improve anything about the course, maybe later homework review sessions?
+Nothing it is perfect. 
+Everything is perfect and I enjoyed the course very much 
+For the lectures to have one person giving a presentation and several other TAs on standby to answer the multitudes of questions we give during lecture.
+I would ask for some more challenging homework problems in the course, that would push me past my boundaries. Or reading materials from certain sources.
+more review
+More physical or digital material.
+if i were to change anything or add to the course design, i would love to include interactive sessions where students solve problems with each other, communicate and get a better understanding of how Quantum technologies work overall. Like hackathons aimed at solving simple questions or problems…. this would have a great impact on the way people as they get involved in building a project and takeaway critical skills like deployment, market research on where Quantum technologies can be applied and get familiarized with the industry!
+i don't know, it was good. 
+I would likely improve the lab aspect, as labs should be longer than they currently are in order to account for questions and better reinforcement of the curriculum.
+nothing
+Overall experience was good. More can be improved in the contents part.
+nothing
+i dont have any suggestions
+I think the team did a great job. Kudos. 
+NOTHING. The course is already self explanatory and if I ever didn't understand something the community was their for me.
+nothing.
+I dont know
+Nothing as such.
+I personally find Canvas to be difficult at sometimes.  If any alternative were found that would be better
+Less python practice in the homework, because I'm more interested in Qiskit. Maybe more python practice in the lab file would work.
+Nothing.
+Nothing comes to my mind.
+I think the coding school make every thing clear
+I have nothing in mind.
+I would improve my coding.
+ I would provide a way for students to learn more about quantum computing, either other resources online or ways to reach out to fellow alumni or researchers in the field.
+I had the impression that many concepts were, at first, tried to be explained intuitively without any explicit reference to the mathematical scheme underlying them. Intuition is always helpful, but sometimes some equations together with a qualitative explanation could be even better. It was said that mathematics will come in the next semester, but maybe some "grasps" of it could be given earlier.
+change the hours of lab sessions
+
+ 
+No notes.
+Nothing, I think the planning and content was perfect. Therefore, there would be no need to improve
+I wouldn’t change anything 
+I think if I could improve something in the course I think it would be to make the course more interactive. I don't exactly know how to do that but I think that I and everyone else here could understand the complex concepts that we are learning better if the course is more interactive.
+
+ 
+I think doing a bit more of practical uses of quantum programming would be nice like the quantum tic tac toe.
+Nothing! I really liked how the course worked out, from adequate time tables, and useful student resources and awesome lectures/labs I like it.
+The lab access code should be emailed to everyone.
+The homework sometimes felt a bit long, but overall I don't think there is much I would change. 
+The Labs are very redundant and they are lack-luster. If there would be anything to improve I would say to void the labs and replace them with something more interactive. My lab teacher was great, but the content itself was not that helpful; however, it is a great time to ask questions and get answers live.
+If possible, I would improve the way homework is graded for the Jupyter Notebook assignments. 
+Everything is great taking the large spread of the knowledge level among students
+On my opinion I think the course is alright as it is, no need to change anything. 
+I would have liked more supplemental material to be available. For example, I had to look up Qiskit documentation to help with some lab problems.
+Nothing
+Maybe I would add more ways to communicate with the teachers, and be able to connect students so that they can create communities. Also, more hours of labs, and if possible, interviews with people who work or have studied a STEM career, or who specialize in quantum computing.
+Longer labs
+I think it was executed very well. I can think of nothing I would improve. 
+
+ 
+I can't think of anything
+maybe more resources similar to the lecture lab summaries, but more in-depth
+I think the only thing to improve is the wrongly assigned availability on assignments. Sometimes assignments are marked incorrectly as to when they are able to be done, compared to due dates. 
+I honestly think its good how it is.
+Connect students more with each other.
+I think it is going great so far so I don't think much can be improved, however, I think sometimes the assignment availability and due dates get messed up but it's fine.
+The duration of the lab sessions should be increased to ensure thorough review of each class exercise.
+I would improve the by providing more interactive activities, which is a little tweak.
+I would like to be given more information to search on my own and more interaction with my classmates.
+No Comments.
+nothing
+To go through the lab notebook sections after each topic is discussed in order to check understanding of how to implement the code and practice using the code.
+Personally, I would not want to change anything about the course. I think that it is perfect with the current structures and increasing difficult of content.
+Possibly making assignments flexible to the PTS time zone.
+I don't have any issues with the course. It may benefit from some more review of the coding subjects but all in all its really good.
+Not much, the course is very easy to attempt to follow and missing classes is made a bit more forgiving as the zooms are online.
+Can't think of anything important.
+Having more depth and mathematical connections would make this course feel a little more complete.
+The course is just great. However, I would suggest the time for the lectures be brought down to 12:30pm instead of 11:30am EST.
+Lab times are short. I would either allocate more time for the labs or eliminate the lecture review. 
+None, happy with the course so far!
+I am very satisfied with the course.
+I felt that the lectures gave really brief explanations of the topics so I felt that I didn't fully understand.
+I would have labs explain the coding of quantum computing more thoroughly.
+I would have appreciated more math and theory behind the application training, but I understand that this is a beginner course.
+I might increase the pace of the lectures
+I wouldn't really change anything. The only problem I faced was not getting my question answered sometimes. I would look in the question box and there would be 30 questions, but then I would find out my question didn't get answered because there were many more questions. I do not know whether they were privately sent in chat which is why I couldn't see them. I understand that there are a lot of students so I usually got those questions cleared up in my lab sessions.
+Not sure I would change anything.
+I wish the answers to homework from the jupyter notebooks were posted in the modules.
+Nothing 
+I would have the lab worksheets give feedback when doing the circuits on correctness kind of like what IBM QC camps/events are doing with their jupyter notebooks.
+As the subject matter grew more complex/advanced, I did observe a lot of students feel too left behind to ever catch up and this does come up during the games we played in our last few labs – may be the overall content should be delivered in 3 semesters (instead of 2), so we allow more time for practice of complex assignments – esp. ones using IBMQ.
+I would improve the course by having a longer lab session to make sure everything in the homework is discussed and explained in the lab, with time to ask questions and elaborate.
+Nothing
+ I do not think that there is anything about the course that could be improved.
+Fantastic 
+Add more optional assignments
+not sure if this is going to happen in the 2nd part of the course but i would like to see more usage in the labs.  i have done all the labs but it seems to just be about building gates and looking at results but it doesnt show the applications to cryptography and all of the other aspects which this can do.  i would like to see more programming which relates to real-world application.  i understand the large age range but perhaps you can give some extra work for those that want to take this thing out on the road so to speak.  perhaps there can be the work that you have been supplying thus far which can be graded and then there can be some more advanced stuff that isnt graded but is just meant to show where all of this stuff is going and to give some good exercise and hands on experience.
+Nothing
+It may be a good idea to add written support material to better understand what is being done in the laboratory. But personally I think the course is already very good.
+Offer to teach the course in person in schools
+Implementing more examples for the concepts we learn and demonstrations on how to apply the topics we learn.
+I would like to se more live lab sessions be offered. 
+I don't think there is much that needs to be improved.
+Nothing! I think its a great course!
+Maybe more practice quizzes and activities? Emphasis on practice.
+Probably try and work with experts on simple projects of interest
+I would improve the homework help because I want more homework help because sometimes I don't even know if I'm doing it right. 
+Sometimes there were issues regarding the lab attendance. That's it!
+I will try harder to understand the course content and concentrate on answering the questions raised by the teacher.
+I think it could have gone a little faster in Semester 1, but for Semester 2 I don't know if the same will be true. Semester 2 has more advanced topics that might need more time to understood properly, so it might be reasonable to keep the pacing of the course the same.
+Maybe more time for the Lab, sometimes we had to rush due to time, I know it's not mostly people would like, but I feel having more time would give TA time and members to have more questions, more homework, some more challenge, would help us challenging ourself and getting that done. I'm kind of person that needs hands on to get some concepts memorized, so extra homework for the ones who want is always nice, and also extra resource/topics  for those that want to study more about quantum computing ...
+Perhaps I would provide more material related to the topic that is being discussed for those interested in furthering their knowledge.
+Try to finish the lab exercises during lab time. Many times whole sections were left pending and these were important to review before the homework assignment. However, the possibility of resubmitting the homework assignment for a better grade makes up for this, and also gives students the continuous option to do better. 
+I'd add an extra day of lecture/lab day, so everything lernt in a week remains fresh.
+I would improve the course by adding more resources(books,videos) on the lecture topic to get a better understanding. 
+Stay the course
+At the start of the semester I noticed some grammatical and informational errors in your Student Handbook. I skimmed through it again to check and found some information errors as well. At one point it says that homework will have a 2.5% off every day late and another place it says 2% off a day. It'd be awesome if you could fix those up!
+Nothing bad comes to mind, but the only thing would be to incorporate a bit more practical work (more simulation, coding, etc)
+More engaging lecturers... (this may just be my personal opinion) ... I feel that the lecturers clearly have a strong understanding of the subject matter, but are not necessarily as skilled at conveying that information in an exciting or engaging way.
+
+I felt that the Lab instructors (both the recorded lab instructor "Adam" as well my Lab instructor "Addie") were both quite good at making the material engaging and fun. 
+By making it more interactive, adding more practice questions and notes in the modules. The flexibility to choose the lab sections with good TAs (or rotation of TAs in different lab sections) could help.
+Give it more time.
+Increase the number of practical exercise solutions in laboratories.
+I can't think of much at the moment except being able to join all of the different lab times.
+maybe a link to outside readings might be nice. and maybe some more time on the interferometer simulation. It felt like I could learn a lot from it, but since we only covered it in one lab session had trouble taking things further alone.
+Maybe just that the first homeworks that involved the use of jupyter notebooks were a little repetitive, however I understand it facilitates getting used to creating the quantum circuits and applying gates, etc.
+I think everything is right about the course. I just want to suggest that in the second semester we should have two or three lead Professors (from MIT or Caltech) in the area of quantum information science to speak on some topics like: quantum teleportation, quantum error correction, fault tolerance and topological qubits. 
+
+ 
+
+ 
+I feel it is fine as is.
+Having a brief review at the beginning of the lab about past concepts
+Something that would be nice is perhaps a more detailed part of the quantum hardware course. Having guests speakers coming to talk about the different actors of the field (Superconducting, Ion traps, neutral atoms, photonics, continuous variable QC, ....) would be essential to have a better perspective of the needs and advances of each of the different technologies of the field.
+it required more contents(materials).
+I have nothing to improve about this course
+I felt that some of the lecturers could be more energetic and enthusiastic in the way they explain information. I also feel that there could be a more efficient way of moving through questions quickly for both the lectures and the office hour meetings (perhaps breakout rooms would suffice towards the end).
+Every thing is great.
+Make lecture slides available for point of reference. 
+One suggestion i would have is providing opportunities for students that would like to learn about these concepts further through additional resources or pointing them in the right direction where they can do so. 
+More lab tours, specially IBMs
+Its not about the course but i have never used canvas before so im still rarely struggling about canvas but its okay.
+I would like to improve more offline coding because a lot of people don't know how to operate an idea.
+Nothing.
+Nothing : )
+Well, its carefully constructed and nice as it is I suppose 
+Labs could be more interactive and longer
+The course was great but It had limited time for lab sessions considering the number and debt of topics being covered. Restructuring the lab session time duration would yield a better outcome. 
+I will like the time for the submission of assignments and lab attendance quiz to be extended for we that do have our lab sections on Saturdays 
+some sort of one on one tutor
+I would maybe make it so that times may be more flexible or that you could attend multiple lab sessions so that you can complete it any day of the week.
+so far I don't have anything to improve
+I understand that this is perhaps not feasible seeing as there are many different levels of familiarity with quantum computing represented in the course, but the pace of the course could be faster.
+More in depth explanations for both the hardware and software
+Nothing 
+I would change the lab hours, with the change on the time zone some labs my lab was a bit late. It was not really a problem so thats why I didnt change it but maybe to some people the time zone change could have produce them a bigger problem.
+At least 3 Lab sessions have been cancelled without warning.
+
+In two Lab sessions, TA never showed up to start the Lab session,
+
+No apologies nor reasons were given by the TA or QxQ. 
+The course has been good and I think that I would not change anything.
+To improve the course I would assign optional homework for students to practice their python coding skills. It is a lot to learn and is fundamental for students to build a good foundation in the skill. So, at least for me, more python practice would be helpful.
+I really liked semester 1. In my opinion, we can make the course even more interesting if students can also get involved in team/group-like activities
+There's nothing I can think of that can be changed. Of course, an in-person class would be nice, but that's impossible.
+More time to submit assignments.
+I would love it if there were resources similar to the cheat sheet provided (notes). 
+I wouldn't improve anything from the course. I think the course is fine the way it is, and I'm able to do my work on time and learn from the course. 
+I think live lab sessions should be more engaging.
+I will try as much as I can to get a computer for the preparation of my second semester course.
+Maybe we could have more time to complete homework i.e. more relaxed due dates. Or we could, if we're absent from labs for a reason (e.g. attending an event or finishing schoolwork), submit that reason to our lab instructor, like in school.
+Overall, I was satisfied with everything on the course. At the moment, I can't think of anything that needs to improve. The TAs were 10/10- perfect. We could use office hours and the recordings. The lessons were perfect for me and the homework was easy and related to what we had learned.
+Nothing everything was as good as it needed to be.
+I would not improve anything. The lectures are good the instructors explain everything good and make it very easy for me to understand. 
+I don't think I would improve anything, everything is perfect. 
+Nothing to say.
+My only complaint was that the live lab sessions were always cut short. I feel like all the TAs should be given more instruction to ensure that all the content to complete the homework is covered. Anything that people do not understand should be brought up during the homework sessions and not the live labs (unless majority of the people on zoom do not understand a topic, then it can be discussed in the lab). Ultimately, I think enforcing more time management can greatly benefit the course. 
+I would make sure the lab contents can fit into the one hour because a lot of the time we weren't able to finish the slideshow during lab.
+As I said I had some problems with my zoom links so it would be better if you made it easier.
+Nothing so far, It is a perfect experience for me.
+Continuously-updated Google Docs containing Python commands utilized in labs(Python cheatsheet)
+So far so good really.
+I don't honestly think that I would improve anything about it.
+Nothing
+Honestly, it is so well-managed so I wouldn't change anything.
+Nothing really 
+The Summary of Key Concepts could be a bit more informative.
+I do not have any suggestions at the moment
+I would like to have more social events and opportunities to get to know other course participants.
+In the future, I think this course could do more lab tours of a quantum computer, and really dissect how each part works, as I feel my understanding of how quantum computing impacts the computer itself is limited.
+Nothing in particular.
+Going great so far. I appreciate this opportunity
+Nothing
+I don't have anything that I would change. 
+I think all of the things about the course is fine.
+The teachers’ audio quality.
+More summary cheats.
+Although I understand that representing and working with mathematical formulations of quantum gates might be challenging for all students of the course, but I would add an easy introduction to the matrices and vectors used in Quantum Computing theory. It would allow to calculate the outcomes of a simple quantum circuit by hand, compare the results with the Python code and understand Quantum circuits deeper.
+I want from you to improve the Lab session period and enhance it with more projects for more practice.
+Everything was great!
+I enjoy the course, and do not have anything for it to improve upon.
+It was good
+I would like the labs to be a little longer. They seem rushed at times.
+Please make the more advanced course for all of us who finish this one! You are great and I would love to learn more advanced quantum next fall. It would be this course level 1 (this 2 semesters) and the next level 2 (next year).
+I would say that if the lectures were normal Zoom meetings rather than webinars, it'd be nice to see everyone rather than only being able to see the lecturer. Maybe, of course, muting would not be allowed, but sharing videos would be cool to see everyone. Otherwise, I'm fine with the course.
+1) I would decrease the lecture times.
+
+2) Make the lectures separately as lab sections so students can participate more efficiently and ask their questions simultaneously. 
+Maybe less homework on some weeks. Especially those with phyton.
+Maybe a bit deeper explanations on difficult content, but otherwise everything is great!
+A review of Lab homework  that we do Every week.
+Nothing much, maybe more time for solving notebook homework
+It would be good if course get more challenging during second semester, also I'd also increase number (or length) of homework assignments. 
+The extra TA hours weren't working well for me because of the time zone issues, and my schedule to be at university on weekdays. I do wish we could dive more in-depth into Python so that as we work with qiskit, I'm able to apply/think differently to come up with the answers.
+I am not quite sure, the changes recommended were not taken care of, if possible that would be great.
+More links to blogs, books, etc. Where I can go and learn the subject in a deeper way
+Nothing. 
+All was perfect.
+Thanks!!
+about the animation section
+Nothing really
+It was perfect.
+little bit of animation
+It would be a better idea to add more from the lecture to the cheat sheet and teach more to make it easier to understand how to apply what is taught about the quantum computer without having to go through a lab that goes over the quantum computing exercises. The lab can actually teach what is going on and focus more on the exercise.
+As much as I like the structure of the class, one thing I might change would be to get the students to interact more. I like the class size of the labs and how they make for a more interactive experience, but I have still had very little interaction with my peers. I would be interested in getting to know my fellow students better, so maybe collaborative projects would improve the experience even more.
+I would love to have more in depth lectures .
+Two weekly lectures instead of one, so that greater variety of content would be included. Or, one lecture but lasting 3 hours instead of one and a half. 
+I hope to see more guest speakers and their works, and more virtual tours in the next semester.  
+This is just good for a beginner.
+I think the organization in the lab sessions
+Not many changes, all important resources are available for use.
+Maybe introduce more interactive sessions.
+One last reminder before the lab.
+This was more so towards the start of the course, but I felt as though there was a slight disconnect between what was being taught in the lectures versus what was occurring within the labs. That being said, both are extremely helpful parts of the course. 
+The course was perfect for me. But if I have one thing to add, it would be to go deeper into physics and math.
+Nothing. It's been great. Thank you.
+The session only thing that I find could be improved upon is the lecture interaction. The lectures became quite one way as the course progressed.
+create more task challenges to complete
+I would have wanted to explore more of the mathematics behind quantum computing in semester 1.
+I would improve the response time to emails and other messages sent regarded administrative things.
+I would hope that the live labs are more productive, and that questions can be held for the end if they are off topic or aren't important. 
+I don't have anything particular in mind.
+Everything was best
+nothing from my eyes besides the attendance late penalty 
+Longer lab sessions so we can cover all the content and a lot more thoroughly.  Sometimes we'd rush or leave out some content for the next lab session.
+Access to lab recordings of your particular instructor, and if possible that of others also 
+I would work more on my coding skills and will spend much more time with the course material to understand them better. 
+More mathematics and formulas.
+1) I would like to have a mentor alloted to the students who are interested in research 
+
+2) Also if we are able to get some guidance to do some projects 
+
+ 
+
+ 
+It is well paced.
+Nothing, i enjoy it a lot:))
+Feedback on homework submission from TA’s
+Nothing upto now. It's perfect. 
+the canvas 
+I don't think there's anything I would improve
+I would like the lab time to be increased 
+I would like for there to be a way to quickly ask small questions without having to wait for the lab sessions or office hours, i.e. a forum for us to quickly exchange questions with our lecturers
+attending live lectures and lab sessions.
+I would improve the speed of the course. I think that at some lectures or labs I wasn't able to keep up because we were moving very fast. In some of our labs this semester there wasn't much time to cover all of the material. 
+practice more after lab
+I can't speak for everyone, but I would suggest teaching everything slightly faster.
+I think lab timing should also be told updated in other timezone formats depending on students' location, it's really hard to submit forms and others.
+I would improve this course by having some lab times be more specialist in certain parts of this course while also teaching the rest of the course. This would make those labs harder as they would have more work to do but it would be very beneficial for people to be able to choose to learn more about a specialised part of the subject that they are interested in.
+Learning more about QC and python.
+I currently have no suggestions or recommendations to improve the course as I find absolutely nothing wrong with it.
+Nothing I liked how it was structured 
+I wish the course followed a stricter schedule. We often do not get to finish the entire content of labs.
+As students, we have a lot of curiosity, especially when we are learning something new during the entire course, we had a lot many lectures to go through and a lot many topics to cover. In covering these topics there were times when the instructor had to ignore the question coming from the students. The questions come as they are being taught and one may forget them later. Though covering the course is important, answering questions is equally important. So, I would like to request the team to cover as many questions they can during all of the lectures, and lab sessions as possible even though it may prolong the lecture duration.
+teach more state-of-the-art algorithms, peek into machine learning
+Making the lecture class more accomadating of those who go to church
+Due to some personal issues I can not attend last 5-6 weeks. 
+The course is excellent! Right now there is nothing I would improve
+For me, something to improve is to give a reward to students who end the course.
+Everything is perfect
+Having multiple times for office hours and homework review because of the time zone issues. 
+Overall, I liked everything about the course and do not wish to change anything about it. 
+For me I'm not sure. I'm looking forward to the more mathematical aspects that will be examined during the second semester. For the record, this process has been much better than what is laid out in textbooks.
+I would send lab links through gmail every week because lab links were very unclear and hard to find.
+I would improve the way each student is engaged, so making sure that everyone is understanding the material .
+python notebook homework had repetitive and easy content, could include more complex exercises
+Errors and noise
+In my opinion, the course structure and material was great, so no improvements come to mind.
+more interaction between teacher and students there are a lot of students whose questions are still not answered in the class.
+How the course is interesting and more helpful to other related subjects in our studies.
+Less "Code" in the Hw-quiz and more questions to the understanding.
+Make the lectures more engaging and involving
+The lectures are long and tedious to sit through as the presenters essentially read the slides. If there was a way to focus the presented information into smaller chunks, it would be better for retention and engagement. This is consistent with cognitive science surrounding learning.
+Nothing
+I would like to get more exercise instructors in the labs
+Nothing
+I would improve the Saturday tutorials timeframe for submitting home work. I generally waited until the tutorial to tackle my home work. Although I did use the review class sometimes and that helped. Having the tutorial first just helped me feel capable to tackle the homework next.
+More practical engagement on coding using Qiskit.
+The content was a bit easy and didn't involved a lot of quantum physics behind quantum properties. 
+
+There should be an interactive session on current quantum research ares or topic. 
+While I don't believe that there are any issues with the course itself that need improvement, I do think that the canvas platform still has some problems that should be addressed at some point
+by giving equal homework time to everyone
+More programming excercises as homework. Please.
+more in depth theory about math and quantum physics and more advanced coding chelenges
+more detail explanantion of  discrete effect -
+
+and the other unique effects of qubit ---
+
+might be able to find new uses and application
+
+ 
+
+have  a better time table for other time zones ( esp lab times)
+
+ 
+
+ 
+I liked this course and I found the cheat sheets really helpful but I think more review sessions would also be helpful.
+More cheat sheets :))
+The receptivity should be a bit decreased and focus more on the summary and key concepts apart from that it was perfect.
+All good at the moment, thank you!
+I think there was a problem with communication. Sometimes some e-mails were recieved later than necessary.
+In the more recent lab sessions, we often did not get a chance to finish all the exercise, especially the complex ones that would be more intellectually challenging and more interesting. 
+
+ 
+
+I thought there would be answer keys to the Lab Handbook, so I could finish the exercise in my own time, but did not manage to find them on Canvas. 
+Small Class Size
+The quality of voice in record lab and lecture.
+
+Maybe sharing some resources and books about this field of physics will be a nice idea.
+I think the homework was a bit overwhelming for me and it was difficult to do it on time. I would like it better if the due dates were a bit more relaxed.
+I want to improve my coding skill, ofcourse! At the same time, I want to learn more about the qubit by qubit.  I want to have a game in our lecture so that I will never be find boring.  I want to have a good communication to my teachers so that I will freely express myself to them about our topic. Last but not the list, I want you to improve this app or what so ever called this, because sometimes I get 0 score in my attendance and assignment quiz even I always follow the instructions, I feel sad and disappointed about that.
+I wish it was more fast-paced. I was able to put a good bit of it off til the last second and still do very well.
+I could improve my practical skill of quantum computing  and basic fundamental theory of Quantum.
+I think the pace was really slow, we can made it a little faster. Still, not too slow. Overall nothing much.
+maybe more coding 
+Applications
+Not much. In my opinion it is pretty great.
+Probably the length of the time spent on Quskit Notebooks during labs. It takes up a lot of lab time and we often end up going past the scheduled time set for lab.
+Not to rush, but to go slowly instead of quickly as this would be more efficient.
+Right now I can't think of anything will surely share if I find anything
+Maybe some more challenge questions, ideas for individual research/ projects?
+Sending links for labs every week
+By creating like slack channels for interaction .Personally, I found it hard to use Discord.
+more math
+in the lectures: talking about the unimportant things at the end of lecture so that we know what't important
+My TA was not particularly helpful for the lab and often didn't manage his time and we ended up missing whole sections of the lab which I had to relearn on my own again.
+I was not able to code in Qiskit and I watched all of the homework videos. I think homeworks can be improved in some way.
+More social gatherings and alumni sessions and office hours at different times, because in my area because of network issues, I wasn't able to attend any office hours. But really wanna attend. So it will really help me next semester. And want recorded lectures from My TA itself so that I can comprehend more about the questions that I had asked in the class and can think more about my peers' ideas.
+
+And one more day lecture if it is possible.
+the quantum turns more difficult  after every week, so i reckon i need more learning and practising to develop my skills in everything i have learnt in quantum.
+Sometimes we miss lab sessions it would be great to be able to join live again.
+Course material was very basic, could me made more kknowledgeable.
+I think, the time should be perfectly distributed through the learning materials for the lab sessions. Because, some times the instructors jump some portion of the learning material, which is okay. But, when we practice that section on out own. we faced difficulties. But If it would not appear, if the lab instructors had shown us that part.
+Nothing 
+More interactive sessions with researchers in the QC industry.
+I became more interested in quantum computing and I clearly experienced that I gained a lot of knowledge.
+I am also looking forward to the more in-depth courses in the second semester.
+At present nothing.
+Specially one thing i would like to say if possible please provide the details of TA & instructor of our lab, lecture in a separate sheet or mail.
+* Right now, the ONLY place to get your questions answered by staff is during office hours. This is not good enough since, if you are not able to attend the office hours live, you have no other options. Instead, for people who cannot attend the scheduled office hours, there needs to be a forum where you can type/post your questions and get written answers from staff/TAs.
+The obvious choice for such a forum is the [Canvas Discussions section] (/courses/27/discussion_topics) but unfortunately that doesn't work since, despite repeatedly asking us to post our questions there, none of the staff/TAs monitor/answer any of our questions there, making it useless.
+Eg. A discussion thread was created for QKD ([link] (/courses/27/discussion_topics/863?wrap=1)) and we were asked to post our QKD-related questions there -- however, nobody bothered to actually answer any of our questions, making the entire thing pointless. In fact, the only people who responded to any of our questions were other students!
+[no-answers-to-our-questions-1.png] (/users/15960/files/24103/preview?verifier=pW18ho17bMg6CFUmAaBeVXMQ5srz1rBEjZZQ1Fxh)
+In summary:
+
+* For people who cannot attend office hours, there needs to be a forum where students can post their questions at any time and get written answers from staff/TAs
+
+* If the [Canvas Discussions section] (/courses/27/discussion_topics) is meant to be that forum, the staff/TAs need to actually commit to monitoring it and answering everyone's questions -- there is no point in asking us to post our questions there and then ignoring them!
+
+* Being able to watch lecture recordings is very helpful, especially if you weren't able to attend the live lecture. Unfortunately, currently the recordings suffer from a lack of quality control, which undercuts their usefulness -- specifically, whenever the live lecture has an issue, for some reason the lecturers do not re-record the lecture to fix that issue, and instead just blindly post the faulty recording online despite knowing that it has issues.
+Eg.:
+
+* For the entire first half of [lecture 3] (https://www.youtube.com/watch?v=IKckCAsJA58&lc=UgzOMJadn_5MzI9ZgkN4AaABAg), the lecturer had an issue with his microphone which meant that we could not hear what he was saying. Despite everyone trying to let the lecturer know in the Zoom chat right away, for some reason the TA only brought this to his attention during the mid-lecture break, after which he replaced his microphone.
+The problem is that, although the lecturer and staff were now well aware that the first half of the lecture was practically unusable, they went ahead and posted that recording  anyway. Instead, to ensure students could actually follow the lecture, they should have re-recorded the first half of the lecture such that it was actually audible and only then posted that new version of the lecture online.
+
+* When filming [lecture 10] (https://www.youtube.com/watch?v=BSJtrVSTJA4&lc=Ugwt-7bg08e34fC5-Bl4AaABAg.9jG7muCUOY39jMaoJiHz8t), the staff accidentally forgot to hit the "Record" button at the start of the lecture, and only remembered to do so after ~10 mins. Despite being well aware that the first 10 mins of lecture were now missing, they went ahead and posted this incomplete recording online, which meant that any students who were not able to attend the live lecture now had no way of catching up on those first 10 mins!
+
+In summary, to ensure the lecture recordings are good enough to teach students who could not attend the lecture live, the lecturers and staff need to be willing to put in the effort to re-record the lectures when something goes wrong instead of just blindly uploading recordings that they know are flawed.
+Otherwise, students can never really rely on the lecture recordings since they have no confidence that, if the live lecture has issues, those issues will be corrected in the subsequent recording.
+
+* It would be great if the course could provide more opportunities for us to talk to our fellow students and get to know them. For example, maybe we could have group assignments, group activities during lab, etc.
+
+* In lecture, it was briefly mentioned that the H gate can be thought of as performing a change in basis, but we were not given a lot of details and, instead, were basically told not to think about it too much as it involved math. I personally found this very confusing and hard to understand. Instead, either:
+
+* a) More time should have been spent explaining what this means, how this works, etc.  without advanced math, so that people could actually understand it
+OR
+
+* b) If there was not enough time to adequately explain what this meant, or if it was not possible to explain it without advanced math, it should not have been mentioned in the first place.
+Bringing it up but refusing to properly explain it seems like the worst of both worlds.
+Nothing currently, maybe the lab tour. 
+
+ 
+Something to improve would be the organization of topics (i.e. having a page that lists out all the topics that have been covered or that we need to know).
+It would be great if I could rewatch each lab one more time any time I wanted. 
+Some of the lectures need to be repeated
+I cannot think of anything right now. 
+Hopefully, course notes and slide decks are provided.  Relevant materials that are widely available outside this course can be posted or provide links. 
+
+Looking forward that not only a lab tour in an academic research settings but also how it is being done inside IBM or any other institution.  
+
+Hopefully, any information can be provided for possible internships or graduate study scholarship relating to quantum computing.
+I understand the subject. Now need more practice myself.
+Nothing
+sometimes lectures were a little fast for understanding. Example: when we taught quantum algorithms and protocols, i felt the teacher was moving very with explanations and I felt that if the lecture a little more introductory it would have helped more.
+Extend or simplify with times to review at the beginning of the lesson.
+I think overall course delivery is perfect. The only thing that can be improved is the amount of content. I think if we were given some ungraded reading assignments about the current quantum ecosystem apart from lectures, it would have been great. 
+
+I hope next semester exposes us to more interesting features of quantum computing. 
+
+As far as my learning is concerned, I think I'll improve my time management in the next semester. 
+Alerting the different timezone students before the class will be pretty valuable.  So kindly alert the student with the relevant time zone to ultimately attend the lab and lecture hours without fail. I felt difficult to participate in the recent lab hours due to the change in the schedule. It will be helpful if we get more flexible lab hours in the upcoming semester. Thanks in advance.
+Hi, One suggestion from my side is some topics in my lab are not yet covered. for the homework exercise, I refer to the recording and work on it. So, please I request you to cover the all topics in the lab sessions.
+
+Thank you.
+
+ 
+It’s perfect 
+make sure recordings for lectures and labs start from the beginning
+I would have liked to see a bit more new content in the last couple weeks of this semester, maybe having us build a project to sum up all that we have learned, or having another special guest/event. 
+I would’ve liked being emailed for my particular lab more
+give more reading content 
+I would like to have the lectures in a bit more detailed fashion. Also it would be helpful if a few books on the topics are being named.
+Nothing. All is good
+Nothing it was perfect!
+There should be more labs to get practical knowledge.
+Incorporate more math and problem-solving activities.
+Everything’s done well! So nothing so far. Just need to get in touch with someone from the team in person so that we can ask what and how can we move ahead in this field.
+There could be a video on how to access the ibm library before the first lab (not sure if there was one because I didn’t see it)
+please make the same type of course available for graduate students with special focus on variational quantum eigensolvers and quantum optimization algorithm which should be in continuation to the qubit by qubit course made available for quite laypersopns in quantum computing.
+The course could be better if more quantum application coding could be added to the lab session.
+I can't think of anything to improve about the course.
+All the lab recodings Link should be sent to students immediately after the lab season 
+I would say I would like to hear about more current opportunities that we could participate in or apply to at a timeline not far into the future. I understand we discussed career and future opportunities in the field of Quantum Computing but I would like more directions on internships we can attain now as an undergrad in college in fields related to Quantum Computing, Quantum Optics, or Quantum Information. Not just private internships offered by IBM, but I would also like for more opportunities to be connected to Professors or labs in Universities that do research on Quantum Information, Optics, or Computing; connections through which we could reach out to the Professors or Researchers and potentially collaborate with them on any projects or for summer research. I enjoyed the tour of the MIT lab that we virtually took during the class but I wish there was a way to take that a step further from and to potentially have opportunities to work there or similar physics labs.
+Nothing. Keep it up!
+It would be nice if lab sessions were slightly longer because often, we did not end up covering all the notes and lab notebook in the one-hour session.
+I think everything is super good already.
+A little more mathematical rigor would be appreciated
+This course improve my programing skill in qiskit and python. I also understand how gate work and how they should use. I understood about quantum computing hardware and theory behind it.
+Having the answer to the coding done during lab posted, as often as a class we do not finish everything.
+I feel there should be more provision of resource kits for students in order to help better their understanding
+All lectures was good but if it is implemented to direct computational model, it will be easy more understanding.
+
+Practical sections should be more.
+Please organise workshops, especially for this course's students, workshops such as we know IBM released a 443 qubits processor, so if you can specially arrange a workshop to give more profound knowledge on the topics they announced on their IBM quantum summit 2022.
+There isn't anything in particular that I can think of right now. Thank you all for this opportunity to learn about quantum computing. It's been really interesting so far.
+I think the assignments should be more and they are just a little bit easy wanted it to be somewhat difficult to have good knowledge about it.
+I can't think of anything that requires significant improvement.
+I think the lab attendance quiz pressures students to join the lab on the day of and its stressful when you can't join the lab on that day because something takes up your schedule.
+Harder problems and more challenging content for undergraduates.
+* Hide answers when putting in test questions
+
+* Be able to do the quizzes at an extended/unlimited time 
+
+* More interactivity
+I have improved my basic understanding of qiskit. I had IBMD account but didn't know how it will work out but now I know all.
+My attendance for live sessions, and also would love if the timing can be sorted in a way that will be easy for everyone to attend the lab
+If the entire course can be given at a stretch(in a single video) just like how freecodecamp does, we can learn in our own pace.
+Perhaps have less content on python review and more quantum software development.
+this course very nice is complet but if you add the cheat sheet it will be again very nice 
+I would improve the accessibility, as you have to access different websites for different assignments.
+Not all of the labs have solutions posted to them all the time. It would be helpful if all the labs had solutions because not all the questions get covered during the lab session.
+The course is well and good.
+Personally, I had difficulty taking the lab sessions and coding at the same time maybe I will have to get a second device but if there's anything the team could do to streamline it, I will appreciate it greatly. 
+I realized after choosing my lab session that I would have fewer days to complete assignments. I think it would be good to give a disclaimer that the later in the week you chose, the less time you will have.
+I would list the materials in modules with the latest stuff at the top, and oldest at the bottom. 
+i perfer the quizzes for homework over the notebooks/coding. i understand why both are used but even if there was a more even split i would like it better.
+I think the time for lab and course :D Because in Indonesia 12.30 PM ET is  12.30 AM in here. So I have to stay awake until a bit morning.
+I really don't have any notes. All good.
+more guest speakers, probably?
+I signed to the PowerPoint presentation social event, the event sent my PowerPoint. However, at the event time, I have not received any link, furthermore, I missed the event. Would be really resourceful to have these links unique - for the social events - and leave them on the canvas. 
+
+I am still really confused about my final grade, because of some late lab forms I delivered, but which I did watch. Furthermore, I would like to have this personal information in a more clear way outside canvas would be resourceful.
+More lab time
+nothing.
+ I would review more of the concepts from the lectures.
+I wish the keys to the lab Jupyter notebook and the homework are more readily available. There were some mistakes and confusing points, it'd be really helpful to have a designated area on Canvas for any corrections.
+Currently, I can't think of anything, the course is really good. 
+It would be great if we could have more lab tours.
+Nothing comes into mind right now.
+Giving an option in the beginning of the course for different levels of difficulty.
+I think the only thing missing is the availability of the power point content presented by the teachers, the rest is perfect.
+I haven't found any fault in this course yet, it is perfect, ti is going perfect speed and assignments are provided to test our knowledge. I feel it is good how it is.
+Homework submissions in the forms of 1) Content Quizzes and 2) Qiskit Notebooks are critical to the learning process for me at least. When I have something due, I am forced to scrutinize the material in a very focused way so my brain is able to grasp the material and hold it in real memory. I think each lesson should have these even though some people might say they are hard! I love having a learning routine infused with accountability practices.
+I would try to make the labs more interactive but not sure quite how. Maybe a kahoot? Or have we done that…
+The communication. Sometimes is a bit hard to get in touch with someone when needed. Although is super understandable given the amount of people that are enrolled.
+Lecture should be maximum 45 min
+Practice questions for lessons that don't have any.
+I felt during the course that some lectures felt pretty easy where as others had too much content. If possible I would try to take small segments of those heavy lectures and introduce them either in labs or in the easy lectures.
+the truth, nothing  I just wish the classes or laboratories were in Spanish, I think there was a laboratory that was taught in Spanish, it was great
+Going over the harder concepts to understand during labs.
+What I would improve about this course is maybe the pace of the lab. I did think our instructor was going to fast when going over slides and the lab work. Other than that I think our instructor did and excellent job explaining and answering questions we had.
+I am more comfortable doing the lab by lab recordings so I can rewind and listen to things again, it helps me understand the content more. It would be great if that would consider as a lab attendance.
+
+In the actual lab I am doing lab, learning content, typing questions, understanding answers; it's too many things so hard to focus on one thing so I prefer learning labs by recording videos.
+There isn't anything I would change honestly. The office hours sound like an amazing help but I did not have time to visit them regardless of when they were available which was a obstacle on my end that I would not expect The Coding School to change. 
+I would move at a faster pace and cover content more deeply.
+I would increase the number of homework review sessions to help accommodate the individuals who are unable to make it to the one on Friday.
+I do not have any suggestion or complaint right now but i will surely contact you when i have one. Happy Holidays.
+I can only guess at the challenges of enrolling and caring for 2000+ global students. With that in mind, it worked better than I could imagine and your partners are to be commended for such an outstanding job.
+
+ 
+
+I appreciate that I can go to the module link in Canvas and find everything that is happening in that module. That is so wonderfully simple!
+
+ 
+
+Thank you for the Summary of Learning Concepts, Homework Helps, and Cheat Sheets for each module. Each one is a very handy reference and reminder.
+
+ 
+One thing I would improve is the deemphasis on surveys like these. I understand the reasoning behind them but at a certain point it becomes quite a bit of a drag. Even doing something as simple as turning down the rate of them would be appreciated. I don't know how much response turnover would be affected if you made them optional, but maybe having a mix of required and optional surveys could do well.
+More review sessions 
+nothing.
+I don't know.
+Time to respond to mails fór support.
+For my in-person class, I would really like to have access to the lab slide decks and to know what the content will be each week for planning purposes. I realize this does not apply to everyone taking the course, and the importance of protecting intellectual property, but our in-person class was a bit disjointed because students had their labs all on different days & times due to their after-school schedules.
+Adding some other things like more lab timing etc.
+The length of the lectures. The content is important but the the duration is a little too much for me. 
+I would probably make it a little harder to force attendance.
+Nah , I guess it was ok for me. 
+It would be nice if there was more new content in the last two labs and lectures rather than review. 
+If there can be seprate link for each lab. Since many times TA were answering our questions but lab used abruptly end due to other TA started their lab. If this can change it will be good. 
+n/a - everything worked out well for me
+I would make it so that every homework assignment stays of the same track, because sometimes the homework was submiting the notebook, some others were canvas tests, etc.
+I think the homework was quite difficult and i couldn't really keep up at the end of the course
+Technical issues
+I really like everything about the whole course, but the only thing I would say to improve on is to have way more available office hours throughout the week. That is the only thing. But, I think this is a very great course overall.
+Something, that I would improve about the course is incorporating more engaging activities, like online games for learning new vocabulary and concepts. 
+I would have more basic classical physics taught.
+I don't know, maybe nothing
+More office hours and special events maybe.
+The course is great, but at the beginning it was a little hard grasping how to use all of the different websites and necessities for the class.
+To be less hours per week.
+One slight comment I have is that on one of our last labs we played games like kahoot and there was also the choice of jeopardy which were exciting and fun! So I'd suggest trying to incorporate some kind of games as an extra event. Game nights basically. Though, in the case of kahoot it's just a quiz, similar to the homework we have for some weeks, the fact that it's live and there is a competitive spirit makes for a whole new experience!
+Gosh, it was a great course. I would have loved a book or a copy of the PowerPoints.  
+don't really know
+Assignments and files organization should be smoother and simpler.
+I am not really sure what I would improve about the course at the moment. It was excellent and I learned a lot!
+Sharing the slides would improve note taking.
+I would make it official a lab extension schedule. I notice that my lab instructor always stayed for longer in order to help people who had difficulties. I think the lab can be divided in two sessions. The first session as the normal lab time (1 hour). The second session for those who need a more one-to-one/detailed explanation (30 min?).
+more quantum lab tours
+I will say, if people are willing to maybe, you could find a way to make student develop a gate in a group or something.
+Sufficient
+None.
+I wish the lectures could be a bit more interactive, just to gauge that the audience has picked up all the content. I feel like there were a lot of times that the information went in and right out my head.
+sometimes the information on the slides used during the labs were incorrect (specifically some of the Python coding examples were just wrong)
+It is perfect
+I think it would be a good idea to minimize the amount of information (it was a lot) taught in one single lesson
+I wish we could explore the theory and math behind quantum computing a little more in semester 1—I am excited to dive into this aspect of the field deeper in semester 2, though!
+amount of activity in homework.
+I think a more consistent homework load would be very nice, as the homework would range from very easy and short to long and tedious. 
+Avoid too much repetition of the main concepts.
+One improvement that would possibly help many is having more office hours or homework sessions throughout the week for more students to access!
+I think there can be more probability or graph theory  related content so that students can appreciate the current state of the field and which will serve as a motivation to learn about algorithms in future. 
+I think that the course was good as it is. The lectures were very helpful and the TAs were extremely kind and willing to answer any questions. 
+Slide access or more notebooks for practice would be useful.
+I would enjoy more selected study materials that are chosen by course designers and educators. We touch on a variety of complex topics, such as the Heisenberg picture and the Schrodinger picture. I was looking up a lot of stuff on my own which was fun, but to have more guided content that we can optionally study would be cool. 
+More documents may be useful
+Sometimes I have some problems with connecting to the meetings. For example I've tried to connect to the ppt party, but I couldn't find the link, other time I tried to connect to a lab, but I was accepted earlier, I got kicked out and I couldn't join anymore, so I would change maybe the logistics of the course, but the material is simply really cool!
+
+I would also make more social hours: maybe like a forum or smth cause I don't really feel connected to others
+Having a slightly more difficult course for people who already have some background experience on QC would be amazing.
+I do not have any complaints about the course. Maybe it would be great if there was more time to do the homework, but so far it was going ok. Also, are the labs split according to the level of advance?
+I would like to have more extensive written notes and shorter lectures. 
+I think the time available to take the lab quiz could be one day longer.
+For me the overall course was fantastic. 
+I think that sometimes a bit more explanation will be good. For example, I had some difficulty understanding superposition.
+What I would Improve about the course is the difficulty level. I understand that this course is intended for high school students, and the goal is to not scare them away from the field of quantum computing. But what I would have liked is to have assignment that has a high level of difficulty for people who want to learn more and challenge themselves. Also, what I would have liked is to have some hand on projects or mini projects that I could work on to help increase the difficulty level and allow me to learn more about the subject.
+
+Sometimes, the content was a bit boring given how easy the assignments were.
+Difficulty of the material is low.
+More mathematical content to explain some of the concepts better.
+Everything to me is great.
+I love the way the course was implemented, from a very basic topic to more complex.
+
+However, I could love to practice more, real live scenarios in where we can apply quantum computation to solve real live problems, that point I could think that can be added to the course program, or at least in the course content you can add link or resource to this kind of data to practice, like Kaggle for IA.
+everything is perfect, nothing 
+Nothing to comment on, because everything is excellent and well organised! 
+Course can be extended by creating divisions like some particular topics for Application in Physics, cyber security, etc.
+Not sure
+Sometimes labs and homeworks had too much overlap. Also, I'd appreciate more external links and resources after doing the homework.
+Engagement  
+More and more Lab Tours and guest-invited talks!
+I wish the lectures were more related to the homework instead of just giving information. 
+I would make the homework a bit more related to the lecture, and covering the depth of the lecture. 
+Everything was just right 
+I will communicate more with the tutors.
+Nothing, really. It’s going great for now.
+Nothing much to improve, I think everything was perfect.
+More mathematics.
+Possibly sign up for a different lab time.
+I`d like to have more and more information during the lecture and more slides from where the instructors represents the topic.
+I would like actual physics problems included in Lab homeworks.
+I'd like that the TA's take some time of their busy schedule to teach us how to code or run our codes exclusively for next semester 
+Honestly, everything is perfect in my opinion because I don't really see any issues right now. 
+I understand how important is to improve the course, but in my opinion, I don't think there is any other way of doing the same thing. Although I would recommend improving the communication channel, I comprehend it's difficult to manage a lot of students from different parts of the country, however; we can give it a different shot.
+My knowledge of the Quantum Games as well as how to use the Quantum fly Trap Experiment
+Not sure. I have been enjoying it so far.
+Everything is ok.
+I want the duration for lab sessions extended to cater for more questions and answers.
+Nothing in particular
+I would like having more interaction among students in lab sessions.
+The course was really well arranged. Setting somewhat extended due dates would be beneficial. I had less time to finish my assignment than other students who had their labs on Monday. My lab is on Saturday; after my lab, I have only two days to complete the assignment. 
+What I will improve about the course is the tic tac toe sub topic, and some quantum measurements.
+I would make lab attendance optional. I heard that in the second semester we will get deeper into quantum computing and using math to solve our problems, so I don't necessarily say it would be an improvement. But this semester, I could do my homework right after lecture, and I felt like the lab didn't really help, and on top of that, we were going through the exercises at a very slow rate (although there were some moments when I felt I actually gained knowledge from the lab alone, like in week 10, 11 and the MIT lab tour).
+EXTENDING THE LAB HOUR TO 1HR 30MINUTES JUST AS THE LECTURES WOULD BE GREAT!
+
+I KNOW THIS MAY NOT BE EASY TO SCHEDULE FOR THOUSANDS OF STUDENTS FROM DIFFERENT TIME ZONES ACROSS THE GLOBE! 
+I would like some more math and physics, more nitty gritty rather than a high level view.
+Lectures should be more interactive
+I feel like it would be great if we got to have more review weeks. They were really useful for me as I got to brush up on and reinforce the course material. 
+I think there should be a 24 hour helpline. It may not be plausible but I have a pretty busy daily schedule and don’t get to my quantum homework until late at night and cannot take advantage of the help hours.
+nothing so far! thank you for everything:)
+I hope to see more guest speakers since I enjoyed listening to a lot of interesting things that they shared.
+I have no idea, I've really liked the course how it is
+Having more exercises to understand the content more 
+post a lab video without student questions
+study material, like books should be included
+I think it's great.
+It was a little bit redundant sometimes
+* Have the testing to be more formalized
+
+* Have a big and challenging weekly or even quarterly project that students can work on to best put their skills and knowledge into practice. I've learned a lot this term but I'm worried I can't really use my skills in a meaningful way. Having a larger project or task would help me to see larger ways that I can be involved in the quantum workforce as well.
+Nothing
+I would love more course content
+The cheat sheets could be much more helpful. Like making them a bit more dense about the topics.
+Nothing
+There isn't nothing particular that I'd improve, maybe the labs structure?
+There is nothing I would really improve, everything was set up nicely, and it was nearly perfect, the only issue I had was the times I set up but I managed to join every lab and lecture, so there's nothing  I would really improve with this course.
+Don't go deeply to Physics
+Perhaps longer Lab Sessions. Sometimes all of the week's content isn't covered in an hour.
+Ability to see the correct coding for labs and homework.
+
+Ability to have access to this course for a LONG time - definitely during the second semester.  I use this information a lot and watch the earlier videos over and over.
+
+Ability to see the chat log from the recordings.
+The deadlines and timings that could be comfortable for APAC regions too.
+Include some optional questions (in homework and/or labs) that are much more difficult for students who already feel comfortable with the base material. I think I am one of those students, and it would keep me more engaged and increase my learning.
+I think emphasizing less time on generic computer science concepts and more on the applications and inner workings of quantum computing topics. I found myself more interested in the quantum side of this course than in relearning many computer science topics I was already familiar with. However, that's from the perspective of someone who's learned CS for a while, so I think it might make sense for others who may not have that background. I wish it was just a little more focused and to the point.
+Sound quality of the lectures
+More programming exerices.
+To be very blunt, for me the whole project is close to being perfect but my learning materials is mostly wat has be giving me issues. For instance i have never practised coding on notebook b4 cos my phone does not support such apps.2ndly .all the downloadable lectures and lab can not be downloaded on my phone, each time i attempt doing so it keeps showing me that such file its not supported by my phone. Finally i have never been previlaged to run transitions or draw the real state of the qubits on a computer system cos i dont have a computer and cant afford to buy a computer. To worsten this issues i lost my payed job in november and have reported all this problems to the organisers of this program serveral times since i started this cohort but absolutely nothing has been done abt it till date. The honest reality of the matter wit as little as $500 i can resolve the whole problems disturbing me from flowing and enjoying this programme.i need a new & higher capacity phone and an also high capacity laptop to enjoy this prigram during my second semester ok. 
+The only downsides were that sometimes questions in the homeworks were ambiguously worded, or even weren't formmatted properly. Closer attention to wording would help massively! :)
+
+ 
+
+False e-mails regarding missed attendance also caused some issues.
+Would like to have more technical (mathematical or scientifical) explanations of the inner working rather than an abstract view, although I recognize it was done for ease of understanding, can't help but desire a bit more info.
+One thing I would improve is possibly adding for real life use cases for quantum computing. The only major one that was talked about was QKD. Also, QKD was a bit confusing at first but it was a bit easier to understand after a bit of teaching.
+No idea.
+Nothing.
+Nothing much comes to mind, though it may be helpful for there to be solutions to the labs posted after the live lab.
+Nothing it's fine as it is
+I would improve to add a little more whys and whens of quantum...
+I except more resources for learning rather than just the office hours or weekly labs. There two were great but there is still something missing to help me work on the assignments. I request to introduce some learning resources where I can read and understand the weekly concepts well.
+
+ 
+Nothing. 
+I think that we should learn new content in lab sessions (i.e., usually the coding) before we review content from the lecture so that we can get as much done in labs as possible.
+Personally I wish the content was more succinct?
+
+For me I could definitely learn much more quickly so sometimes I feel less productive than I wish. But I definitely understand if many people won’t be able to keep up (language issue, getting used to studying after years etc), and that ultimately the course is meant to focus on reach and sort of uplifting people, which is a very good cause.
+I think the course is great and no improvement is needed
+I would love to have more advanced topics in the course, and going through topics faster.
+Increase the difficulty
+Probably, including advanced topics
+I think it's really good doesn't need a lot more
+Maybe explain concepts more, and make lab attendace form codes easier to find for asyncchronus lab people
+So far so good... all is excellent, no faults found yet!
+nothing, everything is good!
+i would like more interaction with our lecture assistant to be more explanatory during the lecture
+Lecture times may be 2, not one, for the course to evolve.
+I only believe that the lab sessions should be longer, maybe like 1.5 hours or so.
+I found the first semester of this course fairly simple.
+The attendance requirement for labs and the lectures should be reversed.
+I believe we could have gone much further into Qiskit in the first semester.
+Add more written resources for those of us who prefer reading.
+I think the course could have been made a little challenging by providing us some mathematical formulations.
+I wouldn't mind if the course content was a bit more complex. 
+I did not find anything that I think could be improved further.
+More physics for students of physics background.
+I think I would value a heads-up on the fundamental idea of the lecture every week. I really loved learning about the theoretical concepts of Quantum Mechanics, but I found I was uninterested in the more engineering-based aspects. I always take notes during the lectures, so a quick blurb from Amir (or whoever gives the lecture) saying "this lecture concerns [engineering, logical operation, generalized overview, etc.]" might be helpful for me to better prepare for what will come, e.g. take more/less specific/broad notes. I love this course, however, and this does not degrade my upheld love of this class.  
+I don't want to improve anything in this course because the course mentors all are awesome.
+i would like the if the lab record was of eddie for i understand the way (he/him) explains.
+I can't think of anything! 
+I would improve the management of questions. Sometimes during lecture or lab, students ask questions that can be answered at later times.  
+More examples apart from those running on IBM Quantum Lab. This gives a comparison or an idea regarding the latest developments on various Quantum Platforms.
+I like to improve the assignments in this course. Throughout this course, I tried to do my assignments on time but I couldn't get access to these assignments. I feel as if it could have been more accessible it would be more beneficial to my learning needs. 
+I think that adding external references to further study this field would be great, although i dont see a significant need in that
+
+ 
+Expanding the variety of examples and analogies.
+I would maybe go more in depth with learning the coding process.
+I would love to revisit the lectures in my free time and go through the concepts once again, so please keep the resources available on the platform forever.
+The course was quite trivial at times. The inherent nature of a weekly lecture is to blame as only so much information can be presented to a student each lecture if the retention of that information is valued. The optional challenge problems on some homework assignments did add to the difficultly, but these problems still never made me scratch my head. I believe that providing the opportunity for extra difficulty to students that yearn for it would be beneficial.
+I would need more practice notebooks which makes understanding better (Specifically to Qiskit). 
+more interaction and more discussion about the topics. Sometimes weekly classes seems less.
+I would have the homework deadline increased to have more time to understand and work on the problems.
+I would add more details of how computer looks like what are components and how they work together?
+Pacing can vary sometimes. Usually doesn't feel to slow, but can feel too fast at times.
+Actually It is a good course and everything have a way to be better. I think as this is the second time repeated, I wish it include lecture written material it cloud be suited the visual learner. 
+Nothing 
+Maybe a summary of a list of questions and answers could be made by the lecturers or lab TAs' may be posted somewhere in the canvas for easy recall at the end of each week's schedule. They could be a reference to come back to long after the semester has been covered. This is especially good for the lecture part.
+Nothing I think what course of action you have taken is swell.
+Maybe some more challenge problems in the homework
+Nothing I can think of. I think the team's doing great already.
+I would change the times we have labs.
+There were often times when I had the opportunity to complete the majority of the notebook before a lab and appreciated the live instruction for the remaining portion of it. However, this meant sitting through many labs waiting to get to a specific point in the notebook, as I didn't quite need live instruction for the rest of it. Perhaps organizing labs by "progress" in that specific notebook (if the lab involves Qiskit) would help other students in similar positions! 
+I would like to improve the depth of knowledge even more in each lecture.
+better coordination between labs and lectures
+I would be pleased to have additional exercises so that I can fully understand some of the topics that have been introduced. 
+Hands on lab exercises  should be of more durations 
+I would hope for more interesting and engaging homework and challenging too because just typing and copying code from one cell to another got boring quickly. Plus, a coding or quantum challenge (that's actually a challenge) at the end would be fun to do and discuss in the lab.
+not sure, maybe make it a bit more challenging, the labs were too easy. I would add coding problems somewhere earlier and also algorithms. I'm waiting for the 2nd semester, hopefully there will be more interesting coding to do.
+This course is great personally did not feel anything to be improved.
+i would like to improve the interaction , as there should be everyone's video on 
+Maybe not dedicate so much time to review, but instead a bit more time towards going a little more in depth on each type of quantum computer and how its implemented? Not an actually deeply needed change, probably not necessary. 
+What if we really to talk to some professors or industry leaders working in the field of quantum computing.
+I would love it if we get lecture notes.
+nothing
+More labs and more timetables.
+I would like it if they could give the TA's a reasonable about of coding info to cover in the labs so we don't run out of time and so all the code i the notebooks is well explained and so we have time for questions.
+I would further divide labs based on familiarity with Python, as my lab spent quite a while going over Python concepts that I was already experienced with.
+It's well structured. 
+Bring in more real life examples.
+Nothing, it's awesome
+I loved the delivery of lecture through the use of slides but i woud also like this to be done.
+
+* The delivery could be made interactive. That is, the TA can kind of write something as he/she teaches. Like maybe writing on a board like Eddie Woo does, or like in some Qiskit youtube videos.That can really be amazing! I hope you get the picture.
+
+* I would love to see both Fran and Amit teaching as if its like kind of a discussion. Maybe that way, Q&A can be attended to real quick. 
+I think that being able to go to any lab session would be good, just have a page on canvas with all the links and then let the lab attendance be due on Sunday or Saturday. It just leaves the labs more open and flexible for when certain days don't work.
+Nothing, it's perfect.
+The one thing that I would improve is the speed in which Canvas is updated every week. I know that there is a lot going in to this class, but, for me, it is helpful to have some resources sooner than they make it onto Canvas. However, that is just something small that I can deal with. I think that this course is very good overall!
+I think the course format is excellent.
+I would have more focus on the physics of how quantum computers work, rather than how to write code on a quantum computer.
+I think the format of the course works really well.
+Nothing.
+I would like the lab recordings to be a lot more condensed into just the important information so it's easier to review using them.
+Maybe a more engaging way of doing the homework.
+The difficulty and spacing.
+Nothing really.
+Put more material rather than just taking slides with facts.
+
+There was less content and more facts on the slides.
+Nothing it works really well
+try to maintain the level of attendees as close s possible to make the lab more interactive, if the difference is too big not too many participate
+Maybe a little more in depth concepts, but I guess that might be in Semester 2
+Add bit more of practicals
+I would want the course to be a bit more collaborative with other students. 
+I would include more detailed resource materials for those who missed the lab session.
+Make the course slides available, but allow only people enrolled to view it.
+I would spend less time on job opportunities during the lab sessions.
+I like it as it is. 
+Some of the technical content was very biased towards Superconducting Quantum Computing.
+
+ 
+
+My bias is towards Photonic Quantum Computing, like from PSI Quantum.  I would seek to add a bit more diversity in the technical content.  You can look at the Domain of Science Map of Quantum Computing.  I really like the authors videos too.
+Everything
+nothing, its perfect.
+I would like it if the labs were more in-depth and presented interesting challenges, like the lab that went over quantum encryption.
+Some assignments were too lengthy which I felt lot of repetition and time consuming.
+its great
+I would only like to demand more notes or cheat sheets from you guys. Everything else is just fine.
+The only thing that should be improved is that the lectures, the ones other than the lab ones should be a little bit more interactive so that we have a better understanding of the concepts.
+Nothing, great course
+Nothing in specific
+I don't think there is much to improve about this course, everything was very well planned and very well executed. I felt that maybe the timings could be more flexible for students attending the course from various time zones especially considering DST is not followed through out the world. That was a slight challenge to adjust with schedule with the course.
+nothing
+Nothing, I was good for me.
+I would suggest that after every lecture, a summary of that lecture is provided in some form so that students can easily reference the content.
+All the content of the course structure was perfectly in sync with me. Even with my college classes and semester exams going on, I could still complete all the HW and attend the lectures. It would be great if we could get some more practice material along with their solutions.
+Nothing much
+Sometimes, the lab time was almost impossible to attend because of internet access, I wish I could attend a different lab at times if possible. 
+Something I would improve about this course is that I would have more opportunities for students to see quantum computing being used in real life. Instead of just conceptually learning how everything works we can see a real quantum computer work and what it does.
+in my opinion it would be better to allow students to turn microfons in lecture it would be much better to ask question insted of righting a question in q&a
+Im not sure, everything was pretty great and well executed!!
+Maybe a little bit more on the QP math side.
+I would change the time homework is due each week, because in our case, our lab session was always on Saturday and assignments were always due on Sundays which doesn't leave enough time to do it. It's just not convenient.
+The course structure was fantastic but one thing I would love to see is to include more office hours for students to interact with the mentors.
+Probably the live lab session, I had the most difficulty grabbing anything my tutor says. Although being able to rewatch the lab and learn from another tutor has help me.
+Nothing really. This might be me not being creative enough but everything in the course was fine for me.
+It's good now.
+I would improve the Qiskit UI so it is a little bit easier to understand for newer users.
+I would like more code and analysis of algorithms, really looking forward to it in 2 semester
+All are good but dead lines for submission of assignments make it like "we can submit whenever we have time to do these works but ya after deadline our grades deducted but submition is not closed till the course"
+Less time on the labs is spent on review.
+I feel like the lectures are very rushed because they cover a large amount of material in such a short time. 
+I cant think of anything to be improved.
+I guess there is very little room for improvement as the course is already structured pretty well. Although, as a suggestion, I would recommend increasing lab activities as it provides more insight into the practical aspects of Quantum computing. More lab tours and guest sessions could also be set up.
+Improve skills  on how one can create new algorithms
+Longer lab time / lecture time.
+Great initiative looking forward to pitch in beyond the mystries
+Nothing. This course was well structured for me
+I think what I would like to see is more real-life applications of what we're learning. It makes it easier to wrap your head around a concept when you know what its applications look like.
+I'm comfortable with the course on general. However it'd be  best if you Avail homework early so that the people in Saturday lab can have ample time to work on it using recordings from other labs.
+Its good. I would like to focus a bit more on math but its amazingly simple and that makes it good.
+The curriculum was top-notch. All I wanted was more guest panels on 'Starting out a career in Quantum Information Science'. This would give more insights for the students who are planning to take Quantum Computing as their career. 
+I would not do anything because it is perfect just the way it is.
+I think the notebook submission-style homework can be changed to something more convenient.
+If there is one thing I would like to change about this course, it's the pacing. At least from my personal experience, very simple, easy to understand things are sometimes given an equivalent amount of time as the hard to grasp ideas, which could be better distributed.
+I would try to go through the content slower so students can digest what they learned better. 
+I don’t have anything that I would improve about this course at the moment.
+It does not feel that we could do a lot with the knowledge earned in the first semester. I would have liked to do more practical things with the knowledge. The pace felt slow. 
+Program level are improved in quantum computing. I learn basic program to improved the skill. 
+Only the homework review and office hours were a problem for me. I understand that there are a lot of students from different time zones enrolled in this course, so it would be helpful if next semesters there's maybe office hours/homework review twice a week in different times?
+it's fine the way it is
+I cant think of anything that this course needs to improve. Its really great.
+A greater variety of conceptual challenge questions on the homework would be pretty cool.
+Forcing HWs in such a short time makes it hard to follow as there are other tasks I needed to complete for my job.
+Nothing, it is great!
+I am not sure. may be we could have a better way for Q/A during the lecture sessions.
+Maybe a few more time slots for the lab sessions. Other than that everything was great!
+More challenging quizzes/homework and including projects.
+The lab sessions should begin with the actual labs and save questions for the end. Several of my lab sessions ran over time because the TA fielded questions first. By the time the TA got to the actual lab, there were only 5 - 10 minutes left, and he was often forced to go over time.
+Not much! it was very fun
+attendance monitoring was not that good
+
+course is good
+If course continuously updates new opportunities in quantum computing and also new quantum news then it can be amazing. Ideas of startups, opportunities of jobs etc.
+Nothing
+
+ 
+I wouldn't improve anything.
+Apart from getting up the technical knowledge of the subject, QxQ should also help scout job and or internship opportunities in the field of QC and regularly share those opportunities on Discord. QxQ should also periodically introduce guest hirers who are interested in hiring in the field of QC to speak.
+Nothing. 
+Some of the Lectures left me thinking, "So what?," on certain subjects, and I would prefer if we were to lean more heavily into the program side of the equation. This is no major complaint, however, and I suspect we'll cover more material like that in the coming semester.
+some holidays
+I think maybe allowing more time to complete the homework since my lab is Friday and I only have 2 days to submit it.
+I don't really like the way labs work.
+nothing
+Longer hours for the laboratory would be extra helpful, so that we can cover more topics and have more guided experiments
+
+ 
+Slightly more depth
+My knowledge about Quantum Physics, Classical Physics, The components of quantum computers and Quantum Computing.
+make lab attendance more flexible for students who might not be able to attend for the week 
+Maybe lab sessions , lab should be of 1.5 hours because towards the end it always feels rushed .
+I would've preferred a more dynamic lab mentor...But that's about it..
+Engaging and interactive teaching methods: Different students learn in different ways, so a course that uses a variety of teaching methods, such as lectures, demonstrations, discussions, and hands-on exercises, can be more effective at engaging all students.
+I do not think that there needs to be any improvements , the course is good as it is.
+Honestly, I think it is perfect as it is!
+its the skills
+I don’t have any issues. 
+More assignments to go over. Breakup of what is the next step in this quantum journey post course. As the learning materials are an ocean, specifying a specific set of books to continue will help a lot
+Scheduling lab sessions with the extreme time difference in mind. I do not know exactly how this could be done, though but the time difference affected my lab attendance negatively
+In fact, nothing can be improved from my point of view, and I hope the course will remain with the same quality, system, and content so that thousands of people can benefit and learn from this wonderful course.
+The course has been excellent so far. Having office hours, labs, and recording of the lectures tremendously helps to review the content of the course. I would not improve anything in particular as in my experience, the course has been excellent so far.
+The things explained in lab are not as understandable as in lecture it also was pretty stressful at some times. And taking notes in lecture is hard but necessary since if you do not than you only have the keyconcepts. I also think it was not that grat. that some people in this cours were already professionals when they started so sometimes in lab or lecture when a few people say yes we can go on it was way to fast to understand for me. But I guess that relates to the läutre and lab being so late in my timezone but that is ofcourse not the fault of this cours.
+I would increase lab hours to an hour and 30 min instead of just an hour.
+I think we could have more flexible deadlines. Though we had a makeup week that made up for it. It would have been less stressful if the deadlines were more flexible from the beginning.
+Making the course a bit more difficult would be nice. I want to learn further so if give a chance I would be happy and grateful for it. 
+More coding practice in the lab would be nice.
+More advanced courses would be nice.
+it s great as it is, i just forget to insert the lab attendance code sometimes though :D
+Nothing to improve from my side..I'm comfortable with what I'm already learning honestly maybe lab time get increased by 30 minutes.
+
+Would be cool to have an extra semester or 2 semesters extra to further advance us in this space.
+Student-student interaction .
+More programming assignments.
+Give optional but harder 'challanges'.
+Nothing.
+I dont think I would improve anything I love it!
+I got started with quantum computing and Python part. After this course, my coordinating part got improved.
+Please have a specific class that will help aspirant, what people should do after completing this for every age group and qualification. 
+
+ Offer some internships program that will be really helpful
+It is good. I would not change anything. 
+I would like a little more detailing on how to implement the algorithms. 
+Giving more time and dyor method on figuring out more things in the field.
+Being able to change lab more frequently 
+Maybe making the lectures a bit more interactive by opening the chat more. 
+Lab sessions can be more effective. Most of the time, time is not enough to cover all the material.
+I would probably allow students to join any lab time of the week. My lab time works well for me, but sometimes, especially since exam season is starting, I only really had time on the weekdays and wished I could join lab another time ocassionally. However, I made sure to be present at every one regardless! :)
+I know this course is an introductory level course, but I found it easy, so having advanced sections for more advanced students would be great. However, if I was a beginner, then the content and teaching were amazing. 
+Go more in-depth with the content.
+Nothing
+I would suggest Q&A sessions outside of the lecture and the labs. These sessions would be an excellent opportunity for open-ended questions as quantum mechanics isn't easy to understand fully.
+Nothing.
+None. I find this course great. 
+I would open the opportunity to have a second lab time. If you miss the first, you could watch the other. More MIT Lab visits and see what students are doing live, with a better video preparation. I didn't like the cell video recording of the LAB, it was a good idea but not well executed. I think you could push a little bit the topics, but that's a personal suggestion; as the course is audience is supposed to be most for high-schoolers may be it's in good sync for them, suggest you to check with them (by the results of this pool) if they find hard or not to follow it. If don't maybe we can dig a little bit. 
+If the lecture class can also be made 1-on-1 that could be better. Because students have more questions during lecture than the lab classes. As far as I understand, labs were basically required coding and practice which can easily be performed if basics are clear. The lecture classes are for basics, so I think 1-on-1 mentorship is more important in lecture class than lab.
+We can add a part where students can talk to an instructor or TA privately for like 5 minutes to express their feelings about the course or ask questions.
+
+And after all, the worst thing about this great course was that it was online! But I don't think there are any solutions for that right now.
+Something I would improve about the course is that the announcements were posted more early in the week. 
+I would make the course a little more advanced and fast-paced. 
+the only difficulty which i faced was the day light saving because here it takes late night to attend the live lectures.
+Nothing,
+Perhaps add external resources for the topics for the opportunity of deeper understanding. 
+Increase the rigor.  Many concepts were repeated week to week, this seemed to be about 1/3 of every lecture.
+The course is so meticulously prepared that I don't think there's anything that needs improvement. All I can say is that you guys did a really great job!
+I would add more office hour times because I was unavailable for a lot of them. 
+I would love to attend more and more lab session. that is the place where I really love to Code in IBM Lab and Feel the experience of Quantum Computer. If Coding part would be more explained with great detail , that could clear lot's of confusion. Lab session must be 2 hours. I feel 50 minutes or 60 minutes is not enough. I love when I open IBM Lab and watch Lab session and practice after making notes of lab class. I Practise more and more and that makes me super clear about Coding. 5 minutes break is awesome. 
+
+The coding school Account must be taught well how to use. that is little confusing for beginners. I learned Modules recently not for 7 weeks I had idea.
+I wish we had spent a week learning about how quantum computing can used in different fields, such as medicine. 
+The course is well researched, planned and executed. It has been very accommodating especially to such a global audience and community. I was also fascinated by the profiles of the lecturers and TAs, they have great accomplishments at relatively young ages. I was also able to envision myself in the field and outside as them. Thank you so much for the opportunity. I again greatly appreciate it.
+The different time zones make it a bit hard for people to join the labs and lectures, especially since they happen at midnight. Initially, it was okay, but the time shift, which I didn't account for earlier made my schedule tight.
+Nothing in particular. The course was really good. It was on the easier side for me but the content was good nonetheless. Looking forward to the second semester!!
+More Problems for practice
+My only problem is that the course wasn't offered during my time zone, so I won't be able to attend the live lectures. Despite this, the recordings greatly helped me to understand the material. So, that's the only thing I want to improve. :)
+Nothing in particular.
+I don't have any.
+I think the scale and communication are hard to handle.
+I want to optimize interaction with the platform because it is hard to understand assignments grading sometimes, and I don't want to write to support and overload them.
+I think I have improved on knowledge on programming.
+Like I said in the previous question, having textual and visual support that I can check whenever I want to would be very helpful.
+My lab is very slow and there isn't as much being done as I would like.
+I don't know. In my opinion, everything was well taught.
+I think it is very good. Almost nothing to say.
+nothing its perfect.
+I think that I would imorove the pace a little because it had been a tad bit slow sometimes but other than that, I think that the course has been pretty good.
+The only thing I would improve are the lab's attendance quizzes: being in the first lesson of the week, often the quiz wasn't immediately available.
+I would like to improve my participation.
+Give more depth info. Share Some reading materials regarding the talk in lecture. 
+Nothing really comes to mind, you guys did an amazing job.
+I think the labs and guest lectures will be more interesting. 
+It would be better if the contents are covered in a little more depth.
+Record all lab sessions as some presenters change the explanation of key topics and its helpful to have multiple perspectives presented on the same topic.
+No improvement. Going very well. would be helpful, if at the end of sem 2, we will work on any application and try to solve some problem.
+I would have an “answer key” to the weekly homework posted towards the end of the week - it would be more helpful than a live homework review.
+including different application based quantum projects
+The course is paced well for me! I think the course is already good on its own.
+Guest speakers and other events should take place more frequently and the application should be made compatible with devices other than laptops as well.
+Less attendance and more tests.
+Nothing, everything was just perfect for me.
+Adding more content and making it longer up to 16 weeks. Include a research project component for those interested too.
+I do not have any answers to this, to be honest. This is the best online course I've ever taken and I'm very proud to be a part of it.
+More labs in a week like 3 in a week 
+Nothing, the course is good!
+Include more hands-on real applications
+Nothing!
+The rate at which lab sessions are held
+Extendance of deadlines
+Everything looks good.
+-Can include coding part,even in the lectures.
+Have a more comprehensive set of notes of bullet points or lesson summary before lecture.
+I would increase the contents on the assignment. Add more challenging contents to every assignment.
+* I would like to see more details about the implementation off Quantum Computers.
+
+* I feel like that after the change in Daylight savings, the hours of the lab changed, but the hours of the lecture did not. My timezone does not follow daylight savings, so that was a bit weird.
+
+* The interface does not show which lab and lecture hours I opted for. There were no calendar invites sent during the time of opting these schedules. That led to some amount of confusion for me. Calendar invites would have shown clearly what I had chosen and when to show up for the classes.
+There isn’t really something that needs improving. 
+not sure if this can be counted as an improvement for this company to make but the week labels were very confusing to me for the first 6-7 weeks.
+It would great if you can make some sessions on below points,
+
+1) Please cover concepts which are part of "IBM Certified Associate Developer - Quantum Computation using Qiskit v0.2X" certification.
+
+2) IBM's previous Quantum Challenge concepts walk through (Qiskit Runtime and Primitives especially)
+
+ 
+More focus on practical coding Exercises 
+I can't think of anything I'd like to improve about it 
+i wanted  we have more stronger relation between the students each others and with the teacher 
+Decreasing Time Duration
+Maybe we can have it in person soon? :)
+I think everything is ok about course.
+I don't like CANVAS at all. I hardly get important notifications on time. I would really appreciate if some better platform is chosen to offer this course in future. Nevertheless, the course content was superb!
+I think that everything is just right it was right pace and structure of course for me.
+Coding skill
+Couldn't clear some doubts during office hours because of the timing 
+
+Can we change office hour timings or attend someone else's batch just for doubts
+The classes are perfect !
+I would like to have the labs and lectures written and read them as an alternative for watching recordings.
+nothing, I like everything
+Definitely the number examples given on slides. Examples should be fully worked so on the slides, not just talked through. This gives those learners who've missed lectures for whatever reason the ability to self-study.
+
+Additionally, much more exposure to programming.
+The lecture and the lab could be more related to each other.
+More options for lab times.
+Lab notes must be provided 
+This is the best course I have ever taken!
+I wouldn't change anything 
+There's nothing that I would improve.
+It's perfect 
+Nothing
+Nothing 
+nothing much everyone was kind 
+Maybe add a bit more variety in the problem sets and further rigor for people interested.
+I would love to spend more time on studying, was busying learning coding and looking for internship. 
+I want to improve that I needed a better informatic progression where I needed to study Mathematics and linear algebra, Also I needed to understand the physics behind the quantum world more scientifically and know the scientific basis of these discoveries, This will give me more understanding of the aspects of quantum computing, but of course, this doesn't deny the fact that the course was very useful.
+Nothing
+I think that the releasing of the lectures should have been more consistent. Sometimes it would release on a tuesday for me or sometimes it would release on a wednesday. I think the lab TA's should be more informed about what is going on. The TA didn't know it was his last lab the week prior so he informed us 2 hours before the last lab that there would be a last lab. 
+I would like to improve the timing of the office hours and homework review sessions as due to time zone differences, it sometimes gets difficult to attend.
+I would want to put more time in the course as I was busy with college apps
+More practical activities that apply knowledge
+there is nothing nothing improve but to earn qunatum machien very much interested with that tomography.
+Perhaps there can be more content in lectures? 
+I am happy at this point.
+I wouldn't really improve anything about the course, as I think it's pretty great. The only thing that I kind of disliked was the homework because it was a little challenging. 
+The course was nice with little room for improvement.
+For me, everything is going fine. Keep up the excellent work!
+I have nothing in mind right now.
+N/A the course itself is to my best appreciation. 
+I like it more when we have visual stimuli and explanations. and if the lab includes code to have answer sheets posted a day or two after the lab to help us understand the code because a lot of the time we wouldn't finish it in lab and i would be left confused. 
+It is going perfectly fine
+I can't think of anything I would change about the course.
+I would like more individual on practice with coding or other work during the lab.
+Its great as it is.
+Currently ,I am contented with the course 
+I believe I was in one of the "advanced" lab sections, but we still spent a couple of weeks at the beginning doing basic python. would've been nice if we spent more time doing more advanced topics instead.
+The course has been designed very well. I cant think of anything to make it better. Thank you!
+I think it is already good, I don't have anything significant I would change.
+This course structure is pretty well. I think adding some difficult problems in the homework may improve this course.
+Help develop a deeper understanding of what is happening, rather than give high level explanations.
+If possible, add a document with very short text descriptions of certain subjects in quantum computing (ex. X-gate, changes qubit from |0> to |1>, and vice versa), simple descriptions like that when we want to go and quickly review a subject
+enough time to cover everything that the homework will be in the lab 
+I thought it was difficult to find the video on how to get started with the IBM Quantum Lab and overall the process was a little confusing. 
+I think that it would be better if the instructors tried to make lectures more fun and interesting instead of just reading the slides. I also think it's a little odd how easy lectures are the same duration as long, densely packed ones. I think that it's ok for easier lectures to be a little shorter, and for densely packed lectures to be a little longer. An hour and 30 minutes like you have is a nice amount of time for a more dense lecture in my opinion, but it's not so great for easy lectures. They feel like they drag on a bit.
+
+ 
+
+This is a small issue but I also think that it would be nice if lecture recordings started when announcements/lectures start as opposed to right when the Zoom opens. :)
+I would make the sessions a little shorter and less contentful. It's hard to capture if so much things are kept only one session. Last few sessions were too hard to understand.
+I think it would be great to have different exercises for those who are more proficient in Python.
+Nothing! 
+Perhaps more avenues for homework help/to ask questions to clarify conceptual doubts, for those who can't attend Office Hours or HW Review sessions due to timezones. Perhaps a channel on Discord, but presently sometimes questions are incorrectly answered by other Discord members, resulting in more confusion instead.
+Practice more.
+Even it´s a IBM oriented course, it should talk about how others technologies are already able to get quantum advantages in some probllems. 
+Maybe at the end of the course there is like a project? that's nice
+I think you must add lectures and labs in spanish 
+I would make the lectures shorter.
+Make it more difficult with more homework to do (some weeks the homework was too easy) to speed up the process
+I think the course is fine the way it is.
+1. please share the slides.
+
+2. End of semester quantum project
+Coming from a CS/physics/math background, it was too slow-paced. I would like if there was a faster-paced option that covered more content.
+
+Having textbook readings would also be great.
+The course is excellent.
+It'd be more than perfect if there could be like a 1 to 1 session with the TAs to discuss any puzzling questions in one's head.
+I don't know.
+I think time zones have been really difficult to play with so finding the right lab was difficult and I think having blocks more spread out would've been better!
+I would make the lectures go into deeper detail and instead of repeating previous knowledge, the lecture would move on or talk into further detail about the subject.
+I would make the labs longer.  Maybe at least 1.5 hours.
+no clue
+More lab time.
+The course is extremely slow and dumbed-down. The lectures, which take on average 1h15min, can be summarized into a neat 20-minute video. I've had to put the recordings on fast-forward and have skipped many segments because of repetition, slowness, and overall simplification. I also expected us to go much more further and advanced.
+
+Apologies for being harsh, but it is what it is.
+As a physics undergrad i would of liked to have seen more maths and physics which i anticipate will be coming in semester 2. I understand it can be difficult to teach quantum mechanics to somebody with no background in that area since the maths is heavy.
+
+It would be nice to see an intensive summer course which dives into the qiskit textbook in more depth to gain a deeper understanding of quantum mechanics and quantum computing. 
+
+ 
+
+ 
+
+ 
+My skills in python 
+The time for the lab session is kind of small, i think it should be at least 1 hour 30minutes
+I am satisfied with the way the course is structured (very thought out and allows students to learn the most they can).
+It's good enough.
+improve on quantum coding skills, in order to have a deeper understanding of the qiskit python library
+nothing much
+One thing I would like to improve would be to add more activities like last week's Kahoot!
+I think the lectures should be more active to help with learning the content.
+I would improve the interactions more.
+It's great and amazing and offering all this help is awesome from you so go on
+lab length times as we struggled at times to cover all the due work
+In the first half, the course felt very slow, and I felt like we were doing the same thing over and over again. I know for some people everything was new and for some not, so this is just personally what bothered me. The second half was way more fun and exciting for me. I wish we continue down that path in the second semester.
+Email reminders of lab blocks.
+Provide some office hours recordings or share office hours materials to students who cannot attend.
+Nothing at the moment
+Seeing more about other areas in STEM that combine more humanities would be interesting. I heard about art in quantum computing which really appealed to me but I haven't heard anything about it since, it might be something that I could help grow. Other than that, the course is comprehensive and fun.
+I need more of:
+
+1- more material to read from arXiv, research center relates to the material
+
+2- current companies webinars/meetings to learn about other type of IBM Quantum machine, e.g. Honeywell Qmachine
+
+3- hand-on and testing on trial solutions for Quantum applications for commercial usage e.g. key generation for Encryption, Logistics and transportation use cases
+
+4- small project to be delivered on running an application/ designing a multi quantum circuit with gates)
+
+5- would like to participate on a program/ to purse a postgraduate certification on Quantum
+Perhaps a "for further reading" section mentioning useful textbooks and/or materials for students that want to delve deeper into each topic?
+More tasks on the IBM and decrease the theoretical tasks as it a little bit boring
+I don't know
+Being required to attend the labs live is difficult sometimes and I wish it could be more flexible.  for example I have had to miss events due to the class.  And for the past two weeks, lab 10 and 11.  The zoom meeting only says that it is waiting for the host to start the meeting.  I am watching the recordings but am concerned because I haven't been able to attend them live and think that it should not be required but rather encouradged.  I think most people would still attend in person but the stress of missing one is relieved.
+I definitely needed more time with python.  It was the most confusing part of this course, even though I eventually got it with my TA Ricky's help. 
+May be the timing of classes 
+The pacing and structure. I would have some pre rec classes required. 
+coding
+If we can record all the Lab sessions and share them it will be great!!
+I think it would be helpful to do less review in labs s we have more time for new stuff.
+for now what i could improve in the course in the number of assigments and increase the lab time 
+more practical learning 
+I would maybe focus more on the mathematical derivations of the gates effects on the states of the test particles. This would help understand what a gate is physically. 
+I would like more sessions within semester to offer help for students.
+If I had the opportunity to improve the course, I suggest incorporating more hands-on, interactive learning opportunities. This could include projects, and group works.
+1. Ensure that alll hosts (lecturers, lab instructors, etc) have their system set up to run Zoom before the meeting.  This includes connectivity/signal strength, audio, video, and screen sharing permissions.
+
+2. Organize Canvas: section layout, files, naming schemes, etc.  The files section is a mess.  It seemed that there was an attempt in the first two weeks to put the week's contents in an associated folder, but stopped.  The file names could be cleaned up for readability; e.g. differing a week's lab vs homework requires you to read the entire filename.  Improved example ideas: "[08] Lab.ipynb", "[HW] Week 08.ipynb", "summary-8.pdf".
+
+3. Flexibility in labs.  I can't say I made any connections with the other students during the labs.  However, I'm not always to able to make the weekly meetups, and with other labs occurring during the week, it'd be easier if I was able to jump between a few without any other requirements. 
+
+3a.  Last week the instructor said this was to be the last lab--even sent out a thank you email.  I receive an email sometime Tuesday stating the lab is still occurring for this week (not from the instructor)... well, I had plans and was unable to make the lab.  The flexibility would still be nice to makeup for the lab as this week isn't over yet.
+I think more instructor feedback would be good.
+The labs seemed un prepared.  Would prefer a scripted micro lesson based version of the lab.
+I don't have any suggestions for improving the course, since I enjoyed it so much! I *really* liked the 2 game nights with the last 2 labs of the 1st semester.
+The amount of time the labs had
+I feel the end of the course was a bit more toward the boring side, because we didn't learn many new things. I feel that for students who have done some higher math and classes should get the ability to get a faster course that goes in more depth. 
+Further explaining the homework assignment. 
+The course is perfect. But I think lab class facilitators should focus on lab work instead of spending 70% time of lab teaching theories. 
+everything is good in the course
+Introduce more math earlier on
+Give more lecture materials

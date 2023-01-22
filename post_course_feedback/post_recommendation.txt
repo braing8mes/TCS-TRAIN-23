@@ -1,0 +1,116 @@
+Do you have any recommendations for improvements in the course?
+{"ImportId":"QID92_TEXT"}
+More lab time
+The course is great
+The course was perfect
+labs with fewer people
+Do some studying of your own on the internet
+Nothing
+It would be better if it was more interactive 
+More frequent breaks 
+Allot more time for practice for students who are new to python. It is a lot to learn in a short time but is also critical to understand quantum coding.
+Nope!
+Make the lab sessions more cooperative 
+better teachers
+I believe the course could be improved if there would be levels within the course structure. For example, I would have benefited from an accelerated version of the class and it would have kept me more motivated than the relatively slowly paced class that the course is as it stands. I enjoyed the content and the delivery of the content, but it was very slow at times. 
+Going into coding quantum sooner
+Nothing
+I hope that summary could be continue sending out in this course.
+For the first week you divided us into groups of people who can code and people who don't, I was one of the people who could code before joining this course, nevertheless we went over Python and how to code using it, I feel like that part could've been skipped, the exercises/assignments were not hard, but took too long because you had to jump between the playbook and look for the question and check the answer and then go back and check which answer is the correct one rather than thinking critically, the playbooks themselves are good, just not the questionnaires.
+None whatsoever
+none
+Include more teamwork tasks
+none
+At some points, course take a very high jump assuming we had all the essential knowledge that is required.  So, I prefer before the classes if you can provide a pre-requisite resources then it will be really helpful
+Teachers do the homework with the students
+Less homework more sessions
+More lectures.
+Improve pace
+Not really
+Students should be allowed to pick the continent time zone 
+maybe shorten the material intended for labs or make the teacher go through it faster
+No, I don't.
+none
+Having slack channels for student communication rather than discord
+I think none.
+Maybe make the homework more straightfoward. 
+none
+A different website perhaps that could better run quantum computing.
+Nope
+Every was fine with me
+Not really
+none
+change is always there but not now
+coordination and enthusiasm among classmates
+I recommed this course strongly 
+No,,it's just fine
+It was perfect
+I recommend interacting more orally with the audience in the zoom meeting sessions.
+Nothing to be honest. 
+Shorter lab and lecture lengths
+not really
+None
+None
+Spend 2 weeks focusing on practice in basic coding such as python, as some concepts can take some time.
+not really. I had great fun!
+I don't have any recommendations, I think it was pretty good.
+Repeat the concepts more often 
+Formation of study groups for training on codes for students only, to apply what they learned in the laboratory and enhance their interest in coding.
+NO,From my point of view the course curriculum is arranged and consistent
+More lab recordings
+Nope
+No recommendation
+Less repetition of already established concepts 
+Describe the purpose of our coding. I just didn't understand that part. I completed the assignments fine but wasn't informed about what it was for. Was it just to make traditional binary code more complicated? That's all.
+More Projects
+More interactions and possible internships.
+A brief history behind the spin quantum number and the birth of Pauli gates would be very interesting. That will give a perspective for students as to why these Pauli gates are so fundamental. 
+Make the content more deeped
+Yes, please add the demo to actual quantum computer
+I believe the qxq team is already doing a wonderful job.
+nothing
+The additional TA in the live labs is an excellent idea. I think it would be beneficial for the flow of a lab for that second TA answer questions put forth with the Q/A method that is in labs. This eliminates the constant breaks in the actual flow of teaching. (I'm a bit older, and I think that quite a few of the questions were "show off" questions. I've seen it in classes I have substituted to impress, and in college courses. The second TA fielding questions would enable the  stream of thought and learning to be uninterrupted. :)
+Faster student help. 
+you are awesome
+Very good
+More options for asynchronous / very busy students to still participate
+Decrease the sessions 
+No, not really , the faculty is top notch, keep up with the good work 
+no everything is perfect 
+This course should give more time to students for finishing homework, be more interactive, and take time to go over terms multiple times.
+A bit more of hands-on and programming
+More live sessions and offer harder problems 
+Not I can think of
+nope
+Nope
+None
+Nope 
+Take the live quiz sessions
+It was a very good course, I enjoyed it so much !!!
+I think the courses are great and it would be great if we get to make some projects as well.
+No I do not!
+None 
+Not at all
+Incorporate more real-world examples and case studies to help students better understand the application of the concepts. Introduce more interactive elements such as videos, simulations, and quizzes to help students better engage with the course material.
+Have a 30 minute long question hour with different  sessions to accommodate time zones.
+smaller class sizes
+Not really 
+The course pace was extremely slow and there was too much repetition during the lectures. Also, there was a lot of just accepting things without understanding and running programs without knowing why they work. One thing I really wanted to know about was the real world equivalent to the qubits.
+Always be in time and ready to learn.
+No, Everything was perfect
+A few more visual or hands on things for learners, such as a walkthrough of a qubit going through a quantum circuit. It's quite tough to have to imagine it all in your own head. I know engineering courses often use circuits or other hands on things to illustrate points.
+nothing
+Increase the time allocation for the course
+everything is good!
+I advise to provide a greater opportunity for applicants from all over the world, because it is a great experience that makes a difference in the life of every student.
+I advise to provide a greater opportunity for applicants from all over the world, because it is a great experience in your life.
+Provide subtitles in other languages
+Maybe go through the homework with students even if it means adding an optional zoom session to do so.
+I think all was good and enough
+The instructors while explaining should speak slower 
+include an explanation as to why answers are incorrect 
+Perhaps a longer course? I feel that i could've benefited more from tad bit slower class.
+Increase lab session because it is very useful 
+It's good.
+Give more real life applicable examples in the first semester otherwise it gets boring
+Nope, good enough

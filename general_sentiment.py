@@ -45,7 +45,7 @@ labels = [f'{l}, {s:.1f}%' for l, s in zip(list(num_conv.keys()), stem*100)]
 plt.legend(patches, labels, loc='best',
     fontsize=8)
 plt.tight_layout()
-
+plt.savefig("stem_int_change.png")
 f2=plt.figure(2)
 patches2, texts2 = plt.pie(quantum, colors= colors, radius= 40, wedgeprops={"linewidth": 0.3, "edgecolor": "white"}, explode=explode)
 
@@ -59,6 +59,7 @@ plt.tight_layout()
 
 diff = mid_clean["6575: How would you rate the level of difficulty of the first semester? "].value_counts(normalize=True)
 labels = list(diff.index)
+plt.savefig("quantum_int_change.png")
 f3 = plt.figure(3)
 patches3, texts3 = plt.pie(diff, colors= colors, radius= 40, wedgeprops={"linewidth": 0.3, "edgecolor": "white"})
 
@@ -73,6 +74,7 @@ plt.tight_layout()
 
 overall = mid_clean['6576: On a scale of 1-5, how would you rate the first semester of the course overall?'].value_counts(normalize=True)
 labels = list(overall.index)
+plt.savefig("diff_level.png")
 f4 = plt.figure(4)
 patches4, texts4 = plt.pie(overall, colors= colors, radius= 40, wedgeprops={"linewidth": 0.3, "edgecolor": "white"}, explode=explode)
 
@@ -85,6 +87,7 @@ plt.legend(patches4, labels4, loc='best',
 plt.tight_layout()
 
 confidence = mid_clean['6574: After semester 1, my confidence in my STEM skills has:'].value_counts(normalize=True)
+plt.savefig("overall_rating.png")
 f5 = plt.figure(5)
 labels = list(confidence.index)
 patches5, texts5 = plt.pie(confidence, colors= colors, radius= 40, wedgeprops={"linewidth": 0.3, "edgecolor": "white"}, explode=explode)
@@ -96,4 +99,46 @@ labels5 = [f'{l}, {s:.1f}%' for l, s in zip(labels, confidence*100)]
 plt.legend(patches5, labels5, loc='best',
     fontsize=8)
 plt.tight_layout()
+plt.savefig("stem_confidence.png")
 plt.show()
+
+f = open("midcourse_like.txt", 'w')
+for each in mid_clean['6578: What did you like the most about semester 1 of the course? (This may be related to the content, course structure, or anything else that comes to mind).']:
+    try:
+        if len(each)>4:
+            f.write(each)
+            f.write('\n')
+    except:
+        pass
+f.close()
+
+f = open("midcourse_improve.txt", 'w')
+for each in mid_clean['6580: What would you improve about the course?']:
+    try:
+        if len(each)>4:
+            f.write(each)
+            f.write('\n')
+    except:
+        pass
+f.close()
+
+f = open("midcourse_improve.txt", 'w')
+for each in mid_clean['6580: What would you improve about the course?']:
+    try:
+        if len(each)>4:
+            f.write(each)
+            f.write('\n')
+    except:
+        pass
+
+f.close()
+
+f = open("midcourse_instructor_feedback.txt", 'w')
+for each in mid_clean['6581: Please use this space to leave a note for your instructor or TA for us to share with them before the winter break!']:
+    try:
+        if len(each)>4:
+            f.write(each)
+            f.write('\n')
+    except:
+        pass
+f.close()

@@ -1,0 +1,190 @@
+What did you like the most about Semester 1 of the course? (This may be related to the content, course structure, or anything else that comes to mind).
+{"ImportId":"QID90_TEXT"}
+Building a STEM Community
+The coding part
+Very easy to follow through
+Practice in coding with qiskit
+I got to explore something I had little to no prior knowledge on. 
+Lecturers and course content
+I loved the interest everyone have. Specially our mentors were definitely willing to share their knowledge with us.
+The resources available 
+I like how the lectures provided us with all the information we would need to complete and understand the lab. The lab instructors explain and went through the lab very well, and I was able to understand a lot of the concept through the labs. 
+Doing simulations of Quantum Circuits
+I really liked the structure/scheduling. Each lecture day tan essentially the same way and it helped students get into a routine and prepare for this course
+The like minded community 
+how i was learning
+I enjoyed the content relating to real world applications of quantum computing. 
+How well the teachers would explain
+IDK. It was overall interesting
+Instructors were nice 
+I liked the way the course was conveniently organized.
+The structure was fun and easy to follow
+Lot detailed summary about the week
+I liked the basing of the course and the content, the team as well.
+The content was very good
+labs
+Opportunity to code; labs are best
+How interactive it was
+I like the way of interaction in the Lab sessions on different topic of QC
+I loved the teachers, I loved how organized things were and how it flowed. I also enjoyed how the material was taught, it was very clear and easy to take in.
+Coding in python
+I really liked how the course was layed out. The lectures then the lab sessions and then homeworks to keep us indulged for the remainder of that week
+The homeworks and live recordings.
+The structuring
+the content
+I liked the introduction to quantum computing
+The professional of the course and teachers 
+Atmosphere of work 
+Excellent 
+Content
+I liked that I learned a lot in the quantum computing field as well as some basic Python.
+Lab 19 was really enjoyable
+the quantum content 
+It was very flexible
+I liked how helpful and understanding Semester 1 was. 
+lab sessions 
+Quantum gates
+I liked the theories surrounding quantum, like Superposition, Entanglement, etc. 
+Honestly, everything!
+it was good
+It was very detailed and it help me a lot to understand basics
+I liked the labs. 
+The teachers were really good
+Using  IBM quantum experience
+It was very intriguing and I learned a lot from it
+Content 
+Nothing Really
+The labs and programming with Qiskit.
+Labs and Lecture Summary
+the content
+the instructor took interest in teaching
+MIT lab tour and course
+I liked how i can rewatch every lecture and lab
+The course was not too hard and we had the best lab teacher in the world,Mr Ricky
+The course was very interesting 
+I liked how interactive the course is by the whole course structure. The content of the couse was excellent and well taught by experts in the field. The community overall was amzing and helpful as well. Finally, I really really liked the lab sessions and coding in Qiskit.
+The homework sessions
+Course structure 
+I liked my lab tutor and the coding element
+writing codes to produce drawings of various qubits circuits, visualizing the bloch sphere and simulating histograms. 
+The labs were my favorite way to learn in this course; I got to see notes, work on my own with the new information, and refer back to guided learning from the teacher as to how to get the right answer and see if I was right and went about the work the right way.
+Learning about gates
+The lab sessions 
+This course was very interactive, I enjoyed all the different lectures and labs, and the teacher help if you have any questions and direct you.
+Labs and lectures.
+I really like that I was learning something new that I wasn’t very familiar with before. I liked that the course was structured in way that I could do it easily while also being school.
+Content was super with good explaination
+We got to learn cool things during lectures and also the lab instructors were very approachable and motivating 
+Sem-1 is great and unforgettable 
+INTERACTIVE LAB SESSIONS
+About this semester I mostly liked that it was very interesting and not boring at all. The teachers made it very simple and easy to understand all the learning. It also didn't require for me to leave all my other stuff behind which was very helpful.
+I like the ;ate homework policy
+Live labs 
+Course structure and the wonderful teaching style from our teachers.
+THE Content is very intersting and before this course I don't have any knowledge in quantum computing but now Iam learned alot and I can feel confident about quantum computing and my coding abilities in python.
+I liked the lecturers and the guest speakers
+The learning process 
+Rewatching labs
+I got to more about quantum computing and difference with the classical computers
+The lack of pressure 
+I liked being able to learn a little coding when the AP Comp Sci course was removed at my high school after the teacher quit...
+I loved how each lab mentor toke their time to explain the lesson in a way that everyone come understand.
+Learning about qauntum's principles 
+the classes worked n my schedule
+The basics
+Flexibility in attending lectures and labs. It was super helpful for professionals and people with kids like me. 
+Lectures content
+learning qiskit
+The cryptic algorithms 
+A lot
+I really loved my teacher adam, had a fun time learning from him and I believe I have gained considerable knowledge all thanks to him.
+All of it
+labs
+the skills i learned
+I liked the way how it was organised like if I dont understand something I can solve tests about it and get information it was so amazing
+The live labs and the ability to ask questions in real time.
+learning how to code quantum computers
+I liked the in-depth knowledge I have gained through the lectures and its application in the live lab sessions. 
+Nothing
+I loved the live calls and opportunity to have more time.
+Nothing
+Live Lessons
+I liked how I was able to rewatch course content. I had a lot of other responsibilities in my real life that did not allow me to sit in at live sessions, so instead I rewatched the new lectures that were recorded.
+Labs
+Every thing 
+Interesting lectures, flexible schedule, strong faculty 
+The strategy of organising the course.
+Everyone was really nice and helpful which made me feel like this was a fun safe space.
+One thing I really liked about the semester 1 course was the lab work we worked on with the entire class. I learned a lot through this experience and learning more about python, qiskit coding and quantum itself.
+i really enjoyed the lab time. 
+The course structure and the lecturers and TAs are all perfect
+Labs, Lecturer
+the delivering of the lectures.
+Course structure
+I like the lab sessions and the lab notebooks <3 
+Learn
+Structure, community, lecturer
+I like how flexible it is and how I can rewatch videos over and over
+Content
+I liked being able to learn understand the topics of quantum physics.
+About how quantum computing works 
+The confident of all the students and participating in the labs by asking questions. 
+The lecture presentations and notes
+the labs
+The live lab sessions 
+The course structure was really great
+Session recordings and English accent of the tutors
+I loved the content we learned about and how futuristic it is. I am able to relate it to present day technology. We do not know everything about quantum and the motive to discover more is enticing. 
+course structure
+The coding bit of the course 
+The content starting from basics
+Effort to include a diversity of students, including students from low-income urban ZIP codes.
+The course structure
+I really enjoyed the structure of the course. The lectures were well organized and the assignments were challenging but manageable. I also liked the variety of topics covered, from basic programming concepts to more advanced topics like artificial intelligence and machine learning. The course also provided a great opportunity to learn about different programming languages and frameworks. Finally, I appreciated the support from the instructors and the TAs, who were always available to answer questions and provide guidance.
+Learning new content.
+Couse structure and detail
+I liked the labs 
+Everything was well curated 
+The fact that we were actually taught how to code on a quantum computer
+The course structure
+I liked the fact that we were able to start actual quantum computing in Qiskit and see the real-world simulated results rather than just theoretical results.
+I loved the way everyone was involved and no one was left behind with questions.
+Simplicity 
+Replay feature
+Using Quantum superposition to create more powerful computing  
+In particular, when I finally understood the idea behind Schrodinger'c Cat, it was an epiphany. Only once we check the box do we know 100% what "state" the cat is in, which correlates to measurement which tells us what state a qubit is in now!
+lessons
+Lectures
+content
+All the lectures
+The ease of access to knowledge and answers to queries  
+I love the structure and it's benefit for beginners. I also like the MIT tour, it's a vivid demonstration of quantum computing.
+I benefited a lot from this course, which helped me learn more and more about Quantum Mechanics, as it began with knowledge of its great contribution to modern discoveries and inventions and the interpretation of several phenomena, which prompted me to learn more about it. Finally, I would like to thank everyone
+I benefited a lot from this course, which helped me learn more and more about Quantum Mechanics, as it started with knowledge of its great contribution to modern discoveries and inventions and the interpretation of several phenomena, which prompted me to learn more about it. I like to thank everyone
+Laps
+The best thing I like is the organization
+literally I loved everything about the courses 
+I enjoyed the friendly nature of the instructors. They understood that this was a complex subject and too their time explaining things.
+The intro
+The community 
+The best part of my semester was that I met a couple of new people who became good friends with me, as well as that I started my senior thesis and have been doing research that I like. Having friends always makes life happier, and doing research that I enjoy makes me feel my life is more meaningful, because I can contribute a little bit to people’s understanding of science.     The best part of my semester was being part of such an amazing soccer team and breaking school records with them.
+Practicing coding in quantum 
+I liked the commitment to this course , The staff was so kind and nice , I liked the fact that I am studying with students from all over the world....
+The theoretical lessons
+ the teachers are very friendly
+My TA lab
+How easy going but engaging the lessons were
+I liked the teacher because she helped make sure that we truly understood what we were learning
+The diversity of lecturers who would portray the same concepts in different manners to simplify complexities.
+The content was interesting and we actually learned a coding language (Qiskit).
+I loved the help TA were able to provide and learning their Method of teaching. 
+Watching recorded video
+I liked the information about quantum computing that I don't know that will help me in my career 
+The content
+I can get the recordings even if i missed the live sessions and the live lab sessions are really amazing.
+the possibility to code in a quantum computer
+It was amazing
+lab sessions
+The lecturers spoke clearly and confidently 
+WE have recordings
+Explaining real world examples and progress

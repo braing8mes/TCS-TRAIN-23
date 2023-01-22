@@ -66,3 +66,6 @@ gender_rate={}
 for key in pre_gender.keys():
     gender_rate[key] = round(100*post_gender[key]/pre_gender[key], 1)
 print(gender_rate)
+
+focus = post.loc[(post.index<2)| (post["Q124_1"]=='1') | (post["Q124_7"]=='1')]
+focus.to_csv("vulnerable_race.csv")

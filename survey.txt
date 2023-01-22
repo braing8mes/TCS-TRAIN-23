@@ -1,0 +1,26 @@
+Survey question numbers are from the Qualtrics page. 
+
+Pre course survey:
+Prior quantum knowledge: Q12, Q13, Q14, Q15, Q120, Q121, Q122, Q123 (similar, could be combined)
+Q14 has a typo 
+
+Confidence in STEM and quantum skills: Q24, Q25, Q39, Q48, Q66, Q68 (very similar, could remove/combine)
+
+College studies: Q40, Q53, Q54, Q124, Q125, Q56
+
+Post semester survey:
+Confidence in STEM and quantum skills: Q15, Q16, Q30, Q41, Q53, Q55 (very similar, could remove/combine)
+
+Interest in subjects: Q40, Q48 (similar, one is ranking the other asks favorite)
+
+Pursuing college or a career in _____ subject: Q42, Q43, Q46, Q47, Q49, Q51 (all very similar, asking about 
+pursuing STEM or quantum)
+
+Course feedback: Q59, Q74 (exact same on overall rating)
+Q58, Q75 (exact same on recommending to a friend)
+Q62, Q80 (exact same on what they liked most)
+Q63, Q64, Q81 (very similar on recommendations for improvements)
+
+Recommendations
+- Delete duplicates.
+- Ask less similar questions, as some could be combined together.
