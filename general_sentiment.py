@@ -142,3 +142,5 @@ for each in mid_clean['6581: Please use this space to leave a note for your inst
     except:
         pass
 f.close()
+
+
