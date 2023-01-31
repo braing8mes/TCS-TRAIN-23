@@ -4,6 +4,7 @@ Race
 {'Asian': 23.0, 'White': 19.7, 'Black or African American': 15.5, 
 'Hispanic or Latinx/a/o': 35.9, 'Prefer not to say': 25.0, 'Two or more': 16.7, 
 'Middle Eastern or North African descent': 18.8, 'Hawaiian or Pacific Islander': 50.0, 'Native American or Alaska Native': 0.0}
+Note: Only 2 Hawaiian/Pacific Islander students so 50.0% is not statistically significant.
 
 Gender
 {'Man': 23.9, 'Woman': 20.0, 'Non-binary': 26.7, 'Prefer not to say': 28.6, 'Gender Fluid': 0.0, 'Demigirl': 0.0}

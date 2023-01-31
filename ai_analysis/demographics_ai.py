@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import seaborn as sb
 from sklearn.linear_model import LinearRegression
-from sklearn.impute import SimpleImputer
+import statsmodels.api as sm
 
 full = pd.read_csv("train_full.csv")
 withdrew = pd.read_csv("train_withdrew.csv")
@@ -61,22 +61,20 @@ if b:
             drop_income[key] = 0.0
     print(drop_income)
 
-full_demo = full[['Final Score (from Gradebook)', 'Enrollment Status', 'Race/Ethnicity', 'Gender', 'LGBTQ', 'Income Level', 'Location', 'Python']]
-# full_demo = full[['Final Score (from Gradebook)', 'Python']]
-full_demo = full_demo.dropna(thresh = 2)
-full_demo['Python'] = full_demo['Python'].astype(str).str[:1]
-full_demo['Python'] = full_demo['Python'].astype(int)
+full_drop = full[['Final Score (from Gradebook)', 'Race/Ethnicity', 'Gender', 'LGBTQ', 'Income Level', 'Python']]
+full_drop = full_drop.dropna()
+demo_score = full_drop['Final Score (from Gradebook)']
+demo_data = full_drop[['Race/Ethnicity', 'Gender', 'LGBTQ', 'Income Level', 'Python']]
+race_data = full_drop[['Race/Ethnicity', 'Income Level', 'Python']]
+gender_data = full_drop[['Gender', 'Python']]
+income_data = full_drop[['Income Level', 'Python']]
+X = pd.get_dummies(data=income_data, drop_first=False)
+Y = demo_score
+model = LinearRegression().fit(X, Y)
 
-imp = SimpleImputer(missing_values=np.nan, strategy='mean') 
-df_mode['MaxSpeed'] = mode_imputer.fit_transform(df_mode['MaxSpeed'].values.reshape(-1,1))
-scores = np.array(full_demo['Final Score (from Gradebook)'])
-python = np.array(full_demo['Python']).reshape(-1,1)
-model = LinearRegression().fit(python, scores)
-r2 = model.score(python, scores)
-print(r2)
-print(model.coef_)
-print(model.intercept_)
+X_train_Sm= sm.add_constant(X)
+ls=sm.OLS(Y ,X_train_Sm).fit()
+print(ls.summary())
 
-plt.figure(figsize=(12,8))
-sb.heatmap(corr, cmap="Greens", annot=True)
-plt.style.use('fivethirtyeight')
+
+
