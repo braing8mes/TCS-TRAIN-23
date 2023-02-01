@@ -1,0 +1,395 @@
+na
+Not sure if this was done but homework solutions.
+Personally, I came into the course with a decent understanding of Python. I hadn't used any libraries related to AI/ML before, but the material went pretty slowly for me (which was to be expected, but I guess I just misunderstood what "advanced" sessions meant).
+I recall some of the cheat sheets being a little lacking; I feel that a more specific text-based recount of lab content could be beneficial.
+I honestly do not know.
+Maybe if I paid more attention and understood the content better.
+nothing
+More time, not much else.
+Lectures were available in canvas
+Credentials for cyber security 
+I think that my experience could have been benefited by the breakdown of the lesson through short notes on the lecture with examples to go along with it because then, I would have been able to fully understand the lessons without many questions.
+I feel as though I definitely could have improved much more with a little more practice in the labs. I feel as though it would be best to leave the instruction in the lectures. 
+Not requiring labs
+If we didn't have to submit the homework 
+Maybe (on my part), taking some more time to communicate and check in with the course.
+This is more on me, but I should've made course notifications. 
+Longer lab sessions 
+if I actually tried
+I wish you can schedule ones on ones with TA's
+More lab time
+Something that would've benefited me was studying more during the semester
+having a bit more knowledge on ai beforehand
+A way that others learning could have collaborated and worked together to learn something new instead of there just being a lecture.
+The labs and the review/summary worksheets benefited my experience this semester.
+I think the short amount of time spent on the topic really made it hard to understand and the lack of examples overall
+I feel like something that I think would have benefited my experience was if the office hours recordings were posted more often. It seems like it wasn't always posted and if i needed trouble on it I couldn't get the help i needed from the videos.
+More student interaction in the labs would have benefited my experience in the program more (the teacher was good, though more students could have interacted such as answering questions in the chat).
+More explanation to certain lessons 
+Video recordings of the lab would have helped because I cant always attend them.
+If I had a better grasp of the subject 
+I think that it would have benefitted me if I would have been added to the Canvas earlier.
+Making the lesson of the content easier to understand
+the labs during the week being less packed in terms the parts of the notebook we had to complete and more about how to code these things and shortcuts to coding without the shortcut sheets provided.
+The homework and information that was given. 
+If I got credited for the course.
+Something I think would have benefitted my experience is if I would be able to talk to one of the teachers privately and ask for extra help or questions, like a tutor.
+Getting to enteract with teachers and students in the course, has encouraged me to continue improving and moving forward.
+Having a more flexible schedule to learn.
+For now, I think everything that can help or benefit my experience is already done. Thanks
+Learning more about the different things that you have to do and trouble issue when coding.
+Nothing, everything benefited my experience but more days with office hours/homework help would be helpful. 
+Being able to go to different lab sessions that have the same content. Sometimes making it to my lab session was more difficult. 
+Maybe integrating the powerpoint slides with the lab notebooks would have helped. Oftentimes, my lab couldn't properly finish a powerpoint, leaving me in the dark about key concepts that I needed to succeed. But this issue also comes down to the fact that there was not enough time, or my lab just went too fast for me to properly digest the information I was being taught. 
+the ability join more than one lab time depending on schedule
+More leeway for lab attendance
+Picking an easier class
+More one on one instruction
+I don't know
+More homework help
+For the labs, maybe show the answers first to save time. Then, we can ask questions about any of the problems. 
+I think receiving e-mail reminders for my labs or having lab links more accessible would have been beneficial, since sometimes I can forget.
+Mm, I don't know
+something that i think benefitted my experience would be the homework reviews and recordings. those really helped me catch up to any material i was struggling with. 
+More classes.
+I think more short practice problems instead of more full application problems relating to that week's topic so that we can get used to the new material.
+Short practice problems relating to the topic.
+Attending Labs benefited my experience greatly as it allowed me to refresh what I learned in the previous lecture.
+none
+I have learned much more about python, algorithms and of course Machine learning.
+More help with the homework problems and having a cheat sheet for all the coding
+I believe I would have benefitted more from bigger flexibility in office hours. On a personal level, the lectures take place at a time that is very difficult for me and I find sitting through the recordings to be a lot less interactive. 
+Homework keys being released sooner, such as the morning of the day of the deadline. This would have allowed me to check my work as I went along, and better understand each homework problem.
+If I was more attentive. I aspire to be a good ML Engineer however due to several reasons I was not completing tasks.
+Earlier release of cheat sheets and homework help videos.
+I don't know.
+I think more lab times. I'm taking two classes with the Coding School, so going to the labs has always been a problem for me, especially with school and my school activities. I think the labs should be somewhat related to the lecture for that week as well. Often the lecture doesn't even connect to the topics that we discuss during the lab.
+If I had picked a lab day earlier in the week, I would have done better. It would have given me more days to do homework.
+Sessions once every 2 weeks would have benefited  me.
+Less homework though it's not necessary. 
+The thing that I think benefitted my experience in the first semester of the program the most would have to be the recorded sessions as even if I wasn't able to go to the classes I could still gain some of the knowledge,
+I believe that a faster content pace would allow for the reinforcement of fundamentals extremely quickly and more efficiently. 
+I think a week 0 to refresh coding basics would've been useful.
+Being able to see recordings of both labs and lectures.
+Attendance codes being able to be submit past 5pm
+I think I would have benefitted from more guest speakers. I would also have loved to have access to completed lab notebooks because sometimes I struggle to see the text during lab and having an answer to compare to is helpful. 
+I wish I picked a different lab time because I had a lot of issues attending the meetings as I had other time commitments, which translated into me having a lot of extra work, which ended up not getting done.
+I think having a better reminder system other than through email for assignments would be helpful that way people are less likely to lose track of the course.
+Something that would have benefited my experience is having slightly more time for the lab because for the most part we don't have enough time to go through the whole notebook or slide presentation. Aside from that I'm pretty content with my first semester being in the program. 
+I think going to homework sessions or just help in general would have benefited me.
+Something that probably would have helped me is if at the beginning of each lecture, we have a 5 minute recap about what the previous lecture was about, as it helps me refresh my mind and in the morning, its difficult for me to understand something unless I have some sort of basis point.
+being able to join any lab rather than just picking one and sticking with it
+Longer labs
+I believe that more reminders for my assignments would have benefited my experience with being on top of attendance and due work. 
+I got in late, if I had gotten in on time it would have been so much easier.
+A slower pace
+I have more of an understanding regarding the language of Python and went more into depth into NumPy/Pandas as in the processes of displaying models.
+I can't really think of anything, I thought my experience in the first semester was already really good.
+More reminders 
+Maybe a public forum where students could ask each other things in case they missed something.
+My overall experience for 1st semester was great and have benefitted from all of it, I can't possibly think of anything else to add.
+maybe some more office hours
+Probably having more explanations of how to write specific things (I got confused on some stuff)
+I think that there should be a lab summary as well in google doc format
+My programming skills, I learned how to digest programming info better
+I did not find the beginning very interesting which made me less motivated to keep up with the course  after that, so if the teachers connected it more to other things I already know about like possibly other subjects it could have made it more exciting
+Having good lab times and a good time for lectures, as well as having solutions there for whenever you need help with the homework.
+Making classes more warm and welcoming. 
+I can’t think of anything that would have benefited me. 
+Pre-recorded lessons and cheat sheets helped the most because they gave additional information that I may have missed or been confused about in the labs.
+I think office hours and summaries would have been more helpful if it was implemented earlier on in the year.
+More time in labs, there is so much stuff we’ve never gone over . Either give us more time or compact the assignments / lab notebooks.
+A small thing but sometimes links were hard to find for zoom.
+Learning the basics of python.
+Less required work for things I know how to do. If you want to make it more obvious they are optional (I was confused by a statement saying you could skip some stuff earlier in the year) just make the first one required and put (optional) after or something because it got really boring.
+It would have been nice to have had optional practice for some of the things I was more stuck on. 
+Maybe more optional projects?
+I wish I was a little more on top of doing my assignments--it was a little difficult to manage my time between 5 APs, extracurriculars, work, etc alongside this course. Now, I think I've mostly figured it out so I should be fine for next semester.
+Besides our analysis of real world data, I think more references or optional resources to look at the application of the skills we learned would have been beneficial to the first semester of the program.
+We should assign study groups so we can meet new people.
+Later day labs.
+More time to complete things
+I think I would have benefitted from review more often.
+Having the opportunity to attend more live labs. I have had an issue attenfing many of these labs due to my schedule so being forced to watch them online, has not given me the opportunity to interact that I wanted too.
+Easier time with accessing homework and lab work, like notifications.
+idk
+Programming with different numbers.
+I believe I had all the resources I needed.
+
+ 
+I would have appreciated a way to view the slides we didn't have time to get to in class.
+Shorter homework assignments
+Have access to my specific lab session for the week, so I can review and slow down the video. 
+Probably a better way to remind students of their labs.
+Paying more attention
+Slower lessons for those that need it.
+More personal help
+An easier-to-use website. It's difficult to find everything easily
+I think the office hours because it really helped me understand the material to where I could do the hw.
+I believe my ability in coding has increased. I feel confident when coding whereas in the beginning, I was overwhelmed by the content at hand
+Labs and lab attendance grades being different 
+Learning more 
+I think I should've better utilized office hours and homework review sessions. Sometimes I wasn't sure if my answers on the homework were correct, but I's always forget to attend the review sessions to ask questions.
+Although we are only learning how to use the car and not build it, I would really like to get into the details of these algorithms and build the car. I believe it would add a greater depth of understanding to this course. Although, it would significantly increase difficulty in the short-term.
+It was somewhat hard to see the benefit of regression, because it just seems like a line of best fit type of thing which doesn't come to mind when I think of AI.
+I would have liked to have had more interaction with my peers. A closer knit community(especially with lab groups) would be a lot better. Something to encourage speaking to people. Also looking "under the hood" of a lot of the ML models that are used. I think a lack of thoroughness sets up for failure. Maybe having more time dedicated to building some math background(like the Quantum Computing Course does) would be beneficial.
+Admittedly, I did not finish a few of the weekly homeworks. If I had been more proactive about reviewing and finishing them, I'm sure that it would've benefitted my learning experience.
+Being able to chose different labs every week
+Going to office hours to ask questions.
+no input
+If lab times would go a little bit slower, maybe more time with coding practices. 
+Extra supplemental materials maybe.
+
+ 
+I can't think of anything.
+Gone to more office hours.
+More office hours
+I think that this course being worth credit would have benefited my experience.
+Something that would have benefited my experience in the first semester is studying the code.
+More time in lab?
+It has not only taught me AI, but its holding me responsible with the weekly labs 
+My experience for the first semesters would've been better if the lecture was on a different day then Sunday.
+I would say that recording the lab sessions would have also benefitted for me. I say this because even though the lectures were recording some things were put better in the lab sessions.
+I feel like it is good how it is now.
+Shorter lectures
+I think having less repition in HW/lab work and more different work would be beneficial, in that it would involve more application and thinking, and less copy-pasting.
+I think a more in-depth explanation of how code should be structured would hlep.
+Something that I think would have benefited my experience in the first semester of the program was to have had more sessions where people who currently work in AI talk about their jobs, and its current uses etc. 
+Something that I benefited from my experience in the first semester of the program is learning how to code better and understand the different meanings to things.
+I personally didn't attend the homework review sessions, but I feel like if I did attend them, I would have benefited more from this course.
+all good
+
+ 
+Maybe being able to join different labs occasionally if you aren’t able to attend on a specific day
+more lenience in the homework assignments, since a lot of things can go wrong
+My coding. I say that because Now I kind of know how to code.
+I think that if I were able to attend a different lab on the days I couldn’t attend my lab, it would’ve really helped. 
+I think having access to the lab slideshows would help so we can review them.  Maybe we could have it be a locked material so only people with the attendance code could open them?
+I wish there was a bit more flexibility with the labs, but I seemed to have managed despite my busy schedule.
+I think it would be nice to have a repository of links to other datasets that we can practice our skills on.
+It would benefit if we had more places where we could talk to eachother.
+Faster material taught
+More labs and practice in general.
+Slideshows are the greatest resource for me when I learn because I have a deck of notes to follow through with and come back to when I need t study. I hope TCS can post slideshows for each topic next time so it'll be easier to follow each concept at home!
+The deadlines were rigid, I don't mind but I am a high school sophomore and I barely have time to manage all my ECs and also attend labs live. It was really a struggle and I had to give up a lot of opportunities because of the live lectures that I took. Honestly, I would ask for an asynchronous lab session.
+Collaborative activities
+Being able to change your lab section, there could be a canvas page with times for every available lab section and you can choose which one you want to attend that week.
+coding
+I think having longer labs would help because when we have a lot of content to cover, it is rushed and it's harder to understand. 
+I benefited by know more about the new coming generation.
+I’ll be honest, I did not watch all the lectures. I started to put them off which led to me not watching some of them, so I think watching them all would have been of benefit to me.
+The interactions with TA in the office hour and lab section.
+I can't think of anything at the moment
+I think if there were more lectures going through the Colab Notebooks for a small portion of it, it could have benefitted me throughout this course. I also would've liked if my instructor was a bit nicer and would go through in depth of some of the topic more.
+I think available homework review sessions in the beginning would have benefited my experience in the course. Otherwise, everything was good. 
+Having variable lab times/ability to watch asynchronously.
+I think that I should have connected with my classmates more.
+Different types of datasets.
+I think that just showing the attendance code for longer or at a different point in the meeting would've been beneficial because there was a time I was two minutes late to a lab and I was unable to get the attendance code for that meeting. I stayed to watch the lab anyways, but I would've been less stressed. 
+Something that would have benefitted my experience in the first semester of the program would be learning at a slower pace. While this has gotten better as the course has progressed, at the beginning I often felt worried I would not be able to learn all the information being taught to me.
+I think a tool to help with my rote memorization of the code we were using would have been useful. I have relied on the cheat sheets more than I would usually be comfortable for, but I haven't felt like I've had the time or resources to devote to memorizing all of the lines I need.
+Nothing, so far everything seems perfect.
+Something that I think would have benefited my experience in the first semester of this program would have been longer labs with more time for examples.
+Honestly, this program was well thought out about finding ways to help students. If I missed a lesson or forgot my notes, I always knew I could rewatch the lessons or visit the cheat sheets. I also knew that if I needed more personal help, I could attend an office hour session. But I was especially appreciative of how accommodating and patient the program was for students like me who were falling behind due to outside circumstances. However, if I had to choose something, I would say slower-paced lessons, as there were times that it was going too fast for me. 
+More interaction with other students
+Honestly don't have anything to say. 
+Although I don't deem it absolutely necessary, explaining how the output worked for some of the more obscure functions (e.g. train_test_split) might have been useful. Other than that, there isn't much I can think of that needed improving. 
+Access to the completed notebooks
+Posting the attendance codes in announcements incase someone missed lab or lecture.
+I think maybe connecting with the other students more. Since the meetings are virtual, there is really no student to student connection and I think that sometimes just talking to others about what we are learning would be nice. 
+Text book
+I would have benefitted from a calendar and a reminder of various zoom opportunities outside of lectures or lab with some time in advance to prepare because I would like to be more involved with the class.
+I think something that would have benefited my experience in the first semester of the program was lecture notes to explain better what the lecture touched on.
+I really benefited from the lab sessions and office hours
+The homework review sessions, the recorded sessions, the cheat sheets really helped me understand the topics better
+more additional resources to help students with content and concepts
+I think I should have attended the office hours more to get additional help.
+Learning graphs and applying my learning skills I got he outside world.
+Exit tickets in labs
+A way to better communicate with my peers.
+Attend office hours and speaking up more are some basic actions I could have taken to better understand the resources at display. Additionally, an earlier class time would likely cause much more engagement and retention in labs.
+I think lecture summary videos would be helpful.
+Being able to rewatch our labs would have been beneficial
+Having an earlier lab time available on Saturdays, say 9 or 10am. Even the 1pm feels a little late in the day for me personally.
+
+ 
+More practice with the material would have been appreciated but the amount we have now is fine.
+More office-hours would have been beneficial.
+Something that I think I would've benefited from my experience in the first semester is my performance in a future AP Statistics class and in my current unit in IB Math SL1 because some content overlaps in the classes.
+I think it would be better to have a recording for each individual labs maybe? 
+The program is good as it is
+Longer time limit or a reminder to enter the attendance codes; I wasn’t able to complete a lab attendance quiz because of this. During my lab I couldn’t find the assignment and it locked at 8pm, the same day I believe.
+I have benefited from an increase in knowledge about artificial intelligence and how it can be applied in Python.
+An additional homework review session
+I think making deadlines less harsh is good
+nothing
+I really enjoyed my experience!
+I wish we could have learned more about how some of these ML algorithms work, rather than just how to plug them into Python and use them. I know that's not within the scope of the course, but it would've been cool.
+Something that would have benefitted my experience is having the attendance code available for longer during the lab. I sometimes have issues logging in to the meeting, and if I arrive even just four minutes after the lab starts, I do not get the attendance code.
+Having access to the slideshow that was being taught from. 
+Written notes on lectures 
+Something that would've benefitted me from this program is if there were more office hours I can attend for help because my schedule is tight on time since I already have stress in high school. 
+Flexibility in applications
+I have no suggestions
+Something that would have benefited my experience is probably more communication and interactions with my peers.
+I think that I have definitely benefited from the one-on-one attention with my lab TA during labs. Unlike the lecture, I can receive more help on concepts I am confused about.
+More opportunities to use machine learning models for real world applications.
+If the slideshows from BOTH the lab and lecture were provided, since I prefer going over the material in my own time.
+Having extra additional resources to explore more topics that I find interesting
+go to homework session 
+More examples in labs.
+I think it would benefit us if we could join any lab we wanted if we missed our lab, because, especially for high schoolers, weekdays after school schedules are unpredictable.
+Getting to know people in the course
+Maybe more flexible lab times. For example, if you know you're going to miss this weeks lab, you can reach out and maybe join another lab session temporarily. 
+I think making the Sunday lectures a little more entertaining would be nice, and maybe a summary of them at the start of the lab session as they are technically optional but feel required in order to know whats going on in the course
+Using a template better than colab
+Maybe an answer key for every lesson, so that when we are stuck on a code, we can look to that.
+more noisy data featured, from sensors instead of researchers
+Rewatching the videos and the key-concept recall every time when the lab starts. 
+I think that being able to rewatch lecture or lab videos has been really helpful in case I needed to go back and watch something or if I ever missed a lecture.
+I cant think of anything off the top of my head the course was overall amazing.
+Maybe if the program was faster-paced but other than that it was good.
+Lab recordings and more coding in lab
+Time, if I had enough time for all the assignments, then the course work could have been much easier.
+I think if the classes went at a slower pace, it would've been easier to catch up with the materials.
+I would have appreciated a lower-level approach to ML algorithms. For example, I would have liked to learn exactly what the KNeighborsClassifier function/class does in the background. Though Scikit-Learn is very powerful, only using this library took away from learning about the inner workings of machine learning algorithms.
+Being able to make lectures more interactive (like poll questions) so I would be able to understand the material much better throughout the lecture each week. 
+Going deeper into the algorithms instead of just practicing with the models.
+Office hours and the guest speakers
+A textbook or stronger reference material wouldn't have been helpful when I wasn't able to watch the videos. 
+I cannot think of something that would have benefitted from this semester, this course has done a great job at providing the necessary resources in my opinion.
+Although I understand we are learning "to drive the car" and not "how the car works," I was interested in learning a bit more about the theory behind AI/ML.
+Extra help that isn't in forms of online meetings. 
+Pacing of the course. 
+I think everything that the coding school has done has benefited me. I enjoy the homework review sessions because it helps me understand what I need to work on.
+i don't know
+I still feel that labs could feel a little more communal, or in some way get us to interact with the coursework and one another more often. I want Lab to be something I look forward to attending.
+Learned more about coding in general.
+It allowed me to gain some responsibility by letting me choose a lab date. 
+Something that would have benefitted my experience is if the lab sessions were recorded because sometimes there was helpful information in them I would want to go back to.
+A more detailed cheat sheet regarding Pandas and KNN would help with the whole syntax mess that came with homework.
+After this semester ended, I realise that I learned a lot from this course. The way that my TA and my lecture teacher explain is so easy to understand, which helps me a lot. 
+I believe that having more extra credit opportunities regarding homework and Machine Learning would better my experience, along with more individual-based projects. 
+Can't think of anything that was too bad
+The labs.
+A bit more review of the past lecture, as I was in a Saturday Lab section, I sometimes forgot about the content from the most recent lecture on Sunday.
+Exploring more of the functions behind the models.
+I think lab attendance code should be visible for the first 5-10 minutes of lab, because it is only shown at the very beginning for 15 or so seconds, and if I am even slightly late, I don't get to see it. Keeping it on screen for at least 5 minutes would mean I am still not missing the lab and allow me to get the code.
+It could have been even better if I had been able to attend the Sunday session on the day.
+I think that having extra practice sheets to work on would have benefited my learning experience in the first semester.
+Maybe more help on the homework.
+Perhaps longer student based projects wherein we may actually apply the concepts we've learned, i.e. an end of semester project or maybe like a hackathon?
+I wish either there was less content presented each week, shorter lab notebooks, or longer lab sessions so that we would be able to cover all the content during lab each week. Especially last week, I felt like I wasn't provided enough time to understand and apply the stuff we were learning during the week it was presented. 
+My future carrer!
+
+ 
+Something that I think would have benefited my experience in the first semester of the program is having a better lab time.
+making the model from scratch
+I would have enjoyed just a little more discussion of python as a language. 
+I think the course was good. Maybe some more practice but that's it.
+More practice problems
+Access or introduction to internships or other like opportunities in machine learning or data science would have benefited my experience. 
+Longer labs or less content in labs. Almost every lab was rushed and had content that there was not enough time to cover.
+
+Lab solutions (like the homework solutions) would be helpful, especially since each one usually did not go through all of the notebook.
+I think it would have been easier if live lab attendance was not required, since I prefer to learn by watching a video so I can go at my own pace.
+I would have benefited me to have the answers to the lab coding so that if i missed something I can look at that. I would also be helpful to have that slidles from the lab and lecture.
+I think increased office hours would have benefitted me more. 
+I benefited from having the labs as they were helpful to make sure that you understood that was taught in the lecture.
+I'm not sure about the question. What do you mean by benefited my experience?
+Remote/asynchronous homework help
+I can't think of anything that would have benefited my experience in the first semester of the program.
+The different types of coding skill which I have developed through the first semester. I would consider as the most beneficial aspect of this semester. 
+I would have liked to have more interactive homework assignments, with more real-life applications put in. I also would have liked to learn how more simplistic algorithms could be implemented in more technical situations.
+I wish that the recordings would come up consistently in the same place on Canvas at the same time.
+Something that would have benefitted my experience in my first semester is guided practice coding notebooks. So, before the real homework having a video going through some problems that I would see on the homework would make me feel more confident doing homework alone.
+Something that would have benefited my experience in the first semester of the program is more extended labs since my group cannot always finish learning everything during the lab sessions.
+A lab avaible throughout the week to view
+More clarity in the beginning of the semester might have helped. In the beginning, with the different documents and canvas, there was some miscommunication so it was a little confusing. However, as the semester went on, the process became smoother. 
+I think that I would have benefited more in the first semester of this program if homework review session recordings had been consistently posted before the homework due date.
+More examples of how to apply code. 
+I think having examples of real life scenarios where this can be used can help in understanding how a certain topic in machine learning can help me in the real world.
+If I personally had been more focused on the course. Due to college applications and other senior-year related chaos the class was not always a high priority
+More time to do homework. Because my lab is on Friday, I cannot really do the homework properly until after the lab, and the homework is due Sunday night leaving only about 2 days to complete it. This would not be the case if I had my lab earlier in the week, but unfortunately Friday is the only lab day that works for me.
+A review of past material would be helpful.
+I would have benefited from being able to see the notes slides after the lecture.
+I like the way that the course has been so far, and I do not think any changes would have been necessary for me to benefit from the course.
+Homework review
+I would've liked to have optional collaborative activities with other students.
+Having confidence would have benefited my experience in the first semester of the program.
+embracing not knowing things and not getting it the first time i tried
+Slight alterations in the homework so it's not quite as tedious and repetitive would have been helpful. 
+perhaps dynamic lab times per week
+I believe if there were more homework review session time slots, it would have eased up a couple of homework assignments.
+If this question is referring to what thing did not happen this semester that would have benefited my experience this semester, then that would be more hands-on real-world applications of AI. This would be like building something more useful in the real world during labs or something. This would have helped to make AI feel like a tool that I know how to and have experience utilizing in real-world applications (instead of theoretical experiments on test data).
+the time flexibility that the program has and I see that as the most vital point of the benefit to my schedule   
+Lab notebook cheat sheets because I'd rather not interrupt the flow of the lab with questions when my code is dysfunctional, but the lab notebooks themselves aren't worthy of going into office hours for.
+Nothing.
+Different times of office hours and homework review because of my lab time and personal schedule
+Something that would have benefited my experience is my TA. He is such a good teacher and having his work experience apply to our course is a great addition. Something I think would have benefited me would be some more exploration towards the concepts of AI. 
+a few more check ins to keep me motivated
+I would have enjoyed more panels to know about people using this in real-life. 
+Going to office hours would probably have benefited my experience in the first semester.
+I enjoyed my experience and I think that everything benefitted my experience.
+The labs have really helped me in this program.
+Watching Homework review videos were helpful as it led me in the right direction on difficult questions.
+An in depth explanation of why and how each command worked.
+Making the explanations, like slides, interact closer to the labs to directly see in the code how the concepts apply, it would be easier to make the connections between what I recall and what I apply.
+The labs being at a different time. 
+Short videos explaining the individual concepts rather than having to look through a long lecture video.
+I think having homework solutions for all of the assignments would have been helpful, but I like how this became available in later sessions.
+no homework
+I don't know if this is too much work, but I think it would be interesting to try to apply the concepts we learned not just through Google Collab, but through showing a scenario in which ML is needed. This could be like an interactive activity that makes us gather some data, determine the features and labels, prepare the data, and use a model to model the data, and present the results.
+I think reminders that labs are coming up would be nice because sometimes I get so busy that I'm forgetful, but a notification on my phone from an email would help me remember.
+Maybe me not slacking off..
+N/A 
+More guest speakers.
+Something that would have benefited my experience would be anything that would be added to the course to better help us as students learn.
+More in depth options to farther your understanding in homework.
+not sure
+I believe the lab sessions being longer could have helped
+Longer lab time like around 15-30 min longer
+N/a
+I think KNN neighbors
+I think I would have benefited from the ability to design my own project using the machine-learning techniques we learned. I think it would have been a valuable experience to learn first-hand how machine learning is applied to real-world data with an independent project.
+It would be nice to have access to the slideshows from the lectures and labs. Also, it would be great if you could get credit for lab attendance if you watched the recording.
+Longer labs. We don't normally have enough time in the lab to go over everything. I think we are going at the right pace just need longer classes.
+If we only had more quality colab notebooks with much more depth in what the current topic is, it would be a much better learning experience. At the moment, the notebooks are a bit short and vague. Not really lending to learning the material and more testing which has hurt my studying throughout the semester a little.
+cheat sheet
+Break out rooms to collaborate on labs
+I wish the lab slides were smaller so we could get through all the material faster
+More hands on activities
+I would say more practical hands-on and deployment to a web application
+Nothing
+I think the lab should've been 1 hr 30 mins, and the Lecture be 1 hour.
+maybe a little like 10 or 5 min help session at the end of the normal session for more personal questions. 
+I wish the lecture recordings were uploaded on Monday.
+The homework was sometimes formatted a bit confusingly, but other than that, not much to add!
+Longer lab times would be helpful, it felt rushed at times to fit all the content within the allotted hour 
+More passion projects
+Using lab only to reinforce content from lecture instead of learning new material in lab would have been better.
+lab
+I can't really think of anything. I just wished I hadn't taken 2 extra community college class along with this program and actual schoolwork. It's the reason I'm behind.
+The course as it was provided me with a great experience.
+I feel that more review, and potentially more open-ended Q & A sessions during lab would be helpful. However, I feel that the current structure is quite conducive to solid learning, and have effectively been learning AI skills throughout the semester.
+I think that doing the homework directly following my lab would have been beneficial for me as I would often have a little bit of a memory gap when I would normally do my homework.
+If the coding cheat sheets could all be in one section of canvas so that I don't have to go through every week/module to pull up the different cheat sheets needed for homework and lab. 
+The homework walk-throughs were helpful when I got stuck, but weren't always posted by the time I had available to work on the homework.
+Maybe somemore real life examples of the different topics.
+The office hours and homework review sessions were great resources, but I personally felt like they weren’t very accessible. Living in the west coast, a lot of the timings were inconvenient for me in that many of them clashed with my school hours.
+I think the labs should have been longer since we often didn't finish the lab notebooks by the end.
+Learning to pay attention to minuscule details!
+More lab/lecture time. 
+I think being able to look into future week's material would have made it more interesting.
+A quick review of the homework for the week before a lab ends.
+Answers to the lab sometimes we weren't able to finish them all in class
+I did like the conciseness of this course, but I thought it could've gone a little more in-depth. I feel like basically the concept was introduced, and there were some exercises on it, and nothing more. I also felt like some things that would turn out to be important were not talked about enough, especially in the learning summary. Some examples and applications, for example, would've been cool.
+
+ 
+A more active student community
+Longer lab times, so we can cover all of the material at the same pace.
+I think there could have been more practice(sometimes our lab wouldn't finish all the lab work and the homework would have some stuff that we didn't do), but it was overall pretty good.
+I think that my understanding of coding has increased than from when I started out. I did not have any previous experience in coding and this course helped me learn some of the basics, concepts, and applications of coding.
+I wish that I had had more time to focus on this course, though that was more a result of my scheduling conflicts than anything else.
+More guest speakers in the field. 
+Having more hours for lab

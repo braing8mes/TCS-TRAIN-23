@@ -26,6 +26,19 @@ if b:
     print(drop_race)
 
 if b:
+    full_python = full['Python'].value_counts().to_dict()
+    withdrew_python = withdrew['Python'].value_counts().to_dict()
+
+    drop_python = {}
+    for key in full_python.keys():
+        try:
+            drop_python[key] = round(100*withdrew_python[key]/full_python[key], 1)
+        except:
+            drop_python[key] = 0.0
+    print(drop_python)
+
+b=False
+if b:
     full_gender = full['Gender'].value_counts().to_dict()
     withdrew_gender = withdrew['Gender'].value_counts().to_dict()
 
@@ -68,13 +81,23 @@ demo_data = full_drop[['Race/Ethnicity', 'Gender', 'LGBTQ', 'Income Level', 'Pyt
 race_data = full_drop[['Race/Ethnicity', 'Income Level', 'Python']]
 gender_data = full_drop[['Gender', 'Python']]
 income_data = full_drop[['Income Level', 'Python']]
-X = pd.get_dummies(data=income_data, drop_first=False)
+race = full_drop[['Race/Ethnicity']]
+X = pd.get_dummies(data=race, drop_first=False)
 Y = demo_score
 model = LinearRegression().fit(X, Y)
 
 X_train_Sm= sm.add_constant(X)
 ls=sm.OLS(Y ,X_train_Sm).fit()
 print(ls.summary())
+
+test = pd.get_dummies(data=full_drop[['Python', 'Income Level']])
+col_order = test.columns.tolist()
+col_order = col_order[-3:]+[col_order[-4]]+col_order[:-4]
+test = test[col_order]
+corr_matrix = test.corr()
+
+sb.heatmap(corr_matrix, annot=True)
+plt.show()
 
 
 

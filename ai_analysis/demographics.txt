@@ -14,3 +14,8 @@ LGBTQ
 
 Income Level
 {'Middle income': 19.9, 'Prefer not to say': 26.3, 'Low income': 27.3, 'High income': 9.7}
+
+Prior python knowledge
+{"1 - I don't know Python.": 31.8, '2 - I have used Python once or twice.': 25.5, 
+'5 - I have taken a class or done a significant project in Python.': 13.7, '3 - I can write comparison statements and loops in Python.': 16.3, 
+'4 - I can make functions and classes in Python.': 10.7}
